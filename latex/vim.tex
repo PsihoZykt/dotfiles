@@ -1,0 +1,42 @@
+\documentclass{article}
+\usepackage{multicol}
+\author{Vladimir Smolskiy}
+\title {Vim cheatsheet}
+\begin{document}
+\maketitle
+\section{Navigation}
+ \begin{itemize}
+\item h	Move left
+\item j	Move down
+\item k	Move up
+\item l	Move right
+\item 10j Move down 10 lines
+\item H	Top line on screen
+\item M	Middle line on screen
+\item L	Bottom line on screen
+\item gg First line of the file
+\item G	Last line of the file
+\item :20 Line 20 of the file
+\item e	The end of the current word
+\item b	Beginning of current word
+\item w	Beginning of next word
+\item 0	Beginning of current line
+\item \^ First non-whitespace of current line
+\item \$ End of current line
+\item \% Move to matching paranthesis, bracker or brace
+\end{itemize}
+The left, right up and down arrow keys can also be used to navigate (Depends on configuration. ) ( IN my config there is no arrow or mouse navigation )
+
+\section{Editing}
+\begin{itemize}
+\item i Insert before current characted
+\item a Insert after current character
+\item	I insert at the first non-whitespace character of the line
+\item  o insert a line below the current line, then enter insert mode
+\item        	O insert a line above the current line, then enter insert mode
+\item        	r Overwrite one character and return to command mode
+\item        	U undo
+\item        	Ctrl+R Redo
+\end{itemize}
+
+\end{document}

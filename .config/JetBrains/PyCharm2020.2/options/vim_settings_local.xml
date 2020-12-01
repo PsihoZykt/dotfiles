@@ -1,0 +1,60 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>18</entry>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/python_parser/parser.py" timestamp="1606788405572">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="38" column="19" />
+        <mark key="." line="38" column="18" />
+        <mark key="^" line="38" column="19" />
+      </file>
+    </filemarks>
+    <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBmLndyaXRlKGxpc3RzW3hdW3ldICsgIiIpCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmLndyaXRlKGxpc3RzW3hdW3ldICsgIiIpCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZih5PT1sZW4obGlzdHNbeF0pKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGlmIHhkICE9IDA6Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBmLndyaXRlKCIgIikK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Zm9yKGkgPSAxOyAgaSA8IGxlbihsaXN0cyk7ICBpKyspOgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">bGluZUxpc3QgPSAwCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>u</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+</application>

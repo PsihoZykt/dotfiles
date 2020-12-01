@@ -1,0 +1,34 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandEnvironmentPanel" value="false" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="appcds.runOnSecondStart" value="PY-202.8194.15-18a970526022fb3fd22fc78166634d99453bd8d58ee76ec0a551e4f3fc928b1d" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="evlsprt3.202" value="11" />
+    <property name="experimentalFeature.terminal.shell.command.handling" value="false" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/.local/share/cheatsheets/cheatsheets_parser.py&#10;/home/psihoz_ykt/python_parser/parser.py" />
+    <property name="file.gist.reindex.count" value="7418" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ideavim.statistics.timestamp" value="1606786797011" />
+    <property name="lastSeenTip" value="neue-PytestFixtures.html" />
+    <property name="lastTimeTipsWereShown" value="1606786800938" />
+    <property name="last_opened_file_path" value="$USER_HOME$/.local/share/cheatsheets/cheatsheets_parser.py" />
+    <property name="seenTips" value="neue-PytestFixtures.html" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.9.5" />
+  </component>
+</application>

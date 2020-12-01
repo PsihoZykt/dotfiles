@@ -1,0 +1,159 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="$Undo">
+        <ActionSummary times="22" last="1606793401261" />
+      </entry>
+      <entry key="BraceOrQuoteOut">
+        <ActionSummary times="1" last="1606787801329" />
+      </entry>
+      <entry key="CodeCompletion">
+        <ActionSummary times="1" last="1606787929400" />
+      </entry>
+      <entry key="CommentByLineComment">
+        <ActionSummary times="8" last="1606793404451" />
+      </entry>
+      <entry key="CopyElement">
+        <ActionSummary times="1" last="1606787281814" />
+      </entry>
+      <entry key="Debug">
+        <ActionSummary times="2" last="1606804070778" />
+      </entry>
+      <entry key="EditorBackSpace">
+        <ActionSummary times="425" last="1606804200560" />
+      </entry>
+      <entry key="EditorChooseLookupItem">
+        <ActionSummary times="30" last="1606804204408" />
+      </entry>
+      <entry key="EditorCopy">
+        <ActionSummary times="6" last="1606793237345" />
+      </entry>
+      <entry key="EditorCut">
+        <ActionSummary times="2" last="1606792276229" />
+      </entry>
+      <entry key="EditorDown">
+        <ActionSummary times="94" last="1606804153182" />
+      </entry>
+      <entry key="EditorEnter">
+        <ActionSummary times="31" last="1606804154388" />
+      </entry>
+      <entry key="EditorEscape">
+        <ActionSummary times="4" last="1606804009826" />
+      </entry>
+      <entry key="EditorIndentSelection">
+        <ActionSummary times="1" last="1606793278000" />
+      </entry>
+      <entry key="EditorLeft">
+        <ActionSummary times="392" last="1606804046923" />
+      </entry>
+      <entry key="EditorLeftWithSelection">
+        <ActionSummary times="1" last="1606789576188" />
+      </entry>
+      <entry key="EditorNextWord">
+        <ActionSummary times="17" last="1606790414717" />
+      </entry>
+      <entry key="EditorNextWordWithSelection">
+        <ActionSummary times="1" last="1606786919411" />
+      </entry>
+      <entry key="EditorPaste">
+        <ActionSummary times="9" last="1606793238351" />
+      </entry>
+      <entry key="EditorPasteFromX11">
+        <ActionSummary times="1" last="1606793471698" />
+      </entry>
+      <entry key="EditorPreviousWordWithSelection">
+        <ActionSummary times="19" last="1606793337555" />
+      </entry>
+      <entry key="EditorRight">
+        <ActionSummary times="337" last="1606804207363" />
+      </entry>
+      <entry key="EditorTab">
+        <ActionSummary times="16" last="1606804006202" />
+      </entry>
+      <entry key="EditorUp">
+        <ActionSummary times="32" last="1606804005691" />
+      </entry>
+      <entry key="Find">
+        <ActionSummary times="1" last="1606804116899" />
+      </entry>
+      <entry key="GotoAction">
+        <ActionSummary times="1" last="1606788434900" />
+      </entry>
+      <entry key="ReformatCode">
+        <ActionSummary times="2" last="1606803611784" />
+      </entry>
+      <entry key="Run">
+        <ActionSummary times="132" last="1606804260055" />
+      </entry>
+      <entry key="RunClass">
+        <ActionSummary times="3" last="1606803924855" />
+      </entry>
+      <entry key="SaveAll">
+        <ActionSummary times="2" last="1606792039334" />
+      </entry>
+      <entry key="SearchEverywhere">
+        <ActionSummary times="1" last="1606787019832" />
+      </entry>
+      <entry key="ShowBookmarks">
+        <ActionSummary times="2" last="1606793380911" />
+      </entry>
+      <entry key="ShowIntentionActions">
+        <ActionSummary times="3" last="1606803629673" />
+      </entry>
+      <entry key="Tree-selectChild">
+        <ActionSummary times="2" last="1606786794330" />
+      </entry>
+      <entry key="Tree-selectNext">
+        <ActionSummary times="11" last="1606786794687" />
+      </entry>
+      <entry key="Tree-selectParent">
+        <ActionSummary times="2" last="1606788587434" />
+      </entry>
+      <entry key="Tree-selectPrevious">
+        <ActionSummary times="3" last="1606786794117" />
+      </entry>
+      <entry key="WelcomeScreen.OpenDirectoryProject">
+        <ActionSummary times="3" last="1606803509524" />
+      </entry>
+      <entry key="WelcomeScreen.Plugins">
+        <ActionSummary times="1" last="1606788436426" />
+      </entry>
+      <entry key="com.intellij.execution.impl.ConsoleViewImpl$EnterHandler">
+        <ActionSummary times="3" last="1606792010763" />
+      </entry>
+      <entry key="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
+        <ActionSummary times="3" last="1606804121108" />
+      </entry>
+      <entry key="com.intellij.ide.ReopenProjectAction">
+        <ActionSummary times="1" last="1606788449886" />
+      </entry>
+      <entry key="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
+        <ActionSummary times="1105" last="1606788405570" />
+      </entry>
+      <entry key="com.intellij.openapi.fileChooser.ex.FileChooserDialogImpl$2">
+        <ActionSummary times="1" last="1606803512336" />
+      </entry>
+      <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+        <ActionSummary times="2" last="1606788436419" />
+      </entry>
+      <entry key="com.intellij.openapi.ui.DialogWrapper$5">
+        <ActionSummary times="2" last="1606804767249" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+        <ActionSummary times="36" last="1606793411524" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.welcomeScreen.FlatWelcomeFrame$FlatWelcomeScreen$6">
+        <ActionSummary times="1" last="1606786782591" />
+      </entry>
+      <entry key="com.intellij.ui.CommonActionsPanel$AddButton">
+        <ActionSummary times="2" last="1606788558036" />
+      </entry>
+      <entry key="com.maddyhome.idea.vim.ui.ExShortcutKeyAction">
+        <ActionSummary times="3" last="1606788385763" />
+      </entry>
+      <entry key="editRunConfigurations">
+        <ActionSummary times="1" last="1606788555534" />
+      </entry>
+    </data>
+  </component>
+</application>
