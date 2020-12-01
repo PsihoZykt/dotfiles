@@ -1,0 +1,9 @@
+#!/bin/sh
+python3 ~/.local/share/cheatsheets/cheatsheets_parser.py
+for file in ~/.local/share/cheatsheets/md/bm-files.md ~/.local/share/cheatsheets/md/bm-dirs.md
+do
+nvim $file -c ":TableFormat" -c ":wq"
+md2pdf $file
+cd ~/.local/share/cheatsheets/md
+mv *.pdf ~/.local/share/cheatsheets/
+done

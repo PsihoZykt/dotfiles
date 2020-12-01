@@ -1,0 +1,11 @@
+#!/bin/sh
+
+#this gives the user a list of cheetsheets they can select and view.
+
+cheatsheets="
+vim(Editor)	${XDG_DATA_HOME:-$HOME/.local/share}/cheatsheets/vim_cheatsheet.pdf
+markdown syntax		${XDG_DATA_HOME:-$HOME/.local/share}/cheatsheets/markdown_cheatsheet.pdf
+Directory aliases	${XDG_DATA_HOME:-$HOME/.local/share}/cheatsheets/bm-dirs.pdf
+File aliases	${XDG_DATA_HOME:-$HOME/.local/share}/cheatsheets/bm-files.pdf
+"
+echo "$cheatsheets" | grep  "^$(echo "$cheatsheets" | grep ".pdf" | sed 's/\t.*//g' | dmenu -i -p "learn about what? (esc to cancel)" -l 20 | awk '{print $1}')\s" | sed 's/.*\t//' | xargs -r zathura
