@@ -96,7 +96,7 @@ autocmd BufWritePost ~/.local/src/dwmblocks/config.h !cd ~/.local/src/dwmblocks/
 " VimWiki
 " ---------------------
 "Change vimwiki syntax from .wiki to .md
-let g:vimwiki_list = [{'path': '~/media/vimwiki/',
+let g:vimwiki_list = [{'path': '/mnt/media/vimwiki/',
                      \ 'syntax': 'markdown', 'ext': '.md'}]
 au BufEnter ~/vimwiki/diary/diary.md VimwikiDiaryGenerateLinks " Reload diary index when open
 nnoremap <C-Space> <Plug>VimwikiToggleListItem

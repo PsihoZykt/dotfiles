@@ -1,4 +1,4 @@
-#!/bin/sh
+
 
 # This file runs when a DM logs you into a graphical session.
 # If you use startx/xinit like a Chad, this file will also be sourced.
@@ -18,3 +18,4 @@ setbg ~/.local/share/wallpapers/2014-03-28_ScotlandFalkirkWheel_EN-AU7830242558_
 #setbg ~/.local/share/wallpapers/ & # set the background with the `setbg` script
 dwmblocks & 
 #removexsessionerrors #LightDM hardcoded put .xsession-errors in HOME. So this script just remove it
+
