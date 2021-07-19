@@ -1,0 +1,43 @@
+[Default Applications]
+text/x-shellscript=text.desktop;
+x-scheme-handler/magnet=torrent.desktop;
+application/x-bittorrent=torrent.desktop;
+x-scheme-handler/mailto=mail.desktop;
+text/plain=text.desktop;
+application/postscript=pdf.desktop;
+application/pdf=pdf.desktop;
+image/png=img.desktop;
+image/jpeg=img.desktop;
+image/gif=img.desktop;
+application/rss+xml=rss.desktop
+video/x-matroska=video.desktop
+x-scheme-handler/lbry=lbry.desktop
+inode/directory=file.desktop
+x-scheme-handler/tg=userapp-Telegram Desktop-2TMP50.desktop
+x-scheme-handler/postman=Postman.desktop
+x-scheme-handler/http=userapp-IceCat-JIH250.desktop
+x-scheme-handler/https=userapp-IceCat-JIH250.desktop
+x-scheme-handler/ftp=userapp-IceCat-JIH250.desktop
+x-scheme-handler/chrome=userapp-IceCat-JIH250.desktop
+text/html=userapp-IceCat-JIH250.desktop
+application/x-extension-htm=userapp-IceCat-JIH250.desktop
+application/x-extension-html=userapp-IceCat-JIH250.desktop
+application/x-extension-shtml=userapp-IceCat-JIH250.desktop
+application/xhtml+xml=userapp-IceCat-JIH250.desktop
+application/x-extension-xhtml=userapp-IceCat-JIH250.desktop
+application/x-extension-xht=userapp-IceCat-JIH250.desktop
+
+[Added Associations]
+application/x-bittorrent=transmission-gtk.desktop;
+x-scheme-handler/tg=userapp-Telegram Desktop-2TMP50.desktop;
+x-scheme-handler/http=waterfox.desktop;userapp-IceCat-JIH250.desktop;
+x-scheme-handler/https=waterfox.desktop;userapp-IceCat-JIH250.desktop;
+x-scheme-handler/ftp=waterfox.desktop;userapp-IceCat-JIH250.desktop;
+x-scheme-handler/chrome=waterfox.desktop;userapp-IceCat-JIH250.desktop;
+text/html=waterfox.desktop;userapp-IceCat-JIH250.desktop;
+application/x-extension-htm=waterfox.desktop;userapp-IceCat-JIH250.desktop;
+application/x-extension-html=waterfox.desktop;userapp-IceCat-JIH250.desktop;
+application/x-extension-shtml=waterfox.desktop;userapp-IceCat-JIH250.desktop;
+application/xhtml+xml=waterfox.desktop;userapp-IceCat-JIH250.desktop;
+application/x-extension-xhtml=waterfox.desktop;userapp-IceCat-JIH250.desktop;
+application/x-extension-xht=waterfox.desktop;userapp-IceCat-JIH250.desktop;

@@ -1,0 +1,75 @@
+# vim: filetype=conf
+
+ncmpcpp_directory = "~/.config/ncmpcpp"
+lyrics_directory = "~/.local/share/lyrics"
+mpd_music_dir = "/mnt/media/music"
+mpd_host = localhost
+mpd_port = 6600
+mpd_connection_timeout = 5
+message_delay_time = "1"
+song_library_format = {%n - }{%t}|{%f}
+alternative_header_first_line_format = $b$1$aqqu$/a$9 {%t}|{%f} $1$atqq$/a$9$/b
+alternative_header_second_line_format = {{$4$b%a$/b$9}{ - $7%b$9}{ ($4%y$9)}}|{%D}
+#Current item
+current_item_prefix = $(254)$r$b
+current_item_suffix = $/r$(end)$/b
+current_item_inactive_column_prefix = $(245)$r
+current_item_inactive_column_suffix = $/r$(end)
+browser_display_mode = columns
+media_library_primary_tag = album_artist
+media_library_albums_split_by_date = no
+startup_screen = "media_library"
+display_volume_level = no
+ignore_leading_the = yes
+external_editor = nvim
+use_console_editor = yes
+statusbar_time_color = green:b
+
+# Visualizer ..
+visualizer_in_stereo = "yes"
+visualizer_sync_interval = "30"
+visualizer_output_name = "Pipe"
+visualizer_fifo_path = "/tmp/mpd.fifo"
+visualizer_type = ellipse
+visualizer_look = ●▮
+visualizer_color = blue, cyan, green, yellow, magenta, red
+
+# Misc ..   
+display_bitrate = "yes"
+autocenter_mode = "yes"
+centered_cursor = "yes"
+titles_visibility = "no"
+statusbar_visibility = "yes"
+empty_tag_marker=" -- ‼ -- " 
+mouse_support = "yes"
+header_visibility = "no"
+display_remaining_time = "no"
+ask_before_clearing_playlists = "yes"
+discard_colors_if_item_is_selected = "yes"
+
+# Now Playing ..
+now_playing_prefix = "$b$2 >"
+now_playing_suffix = "$8$/b"
+
+# Progress Bar ..
+progressbar_look = "─╼"
+progressbar_color = "blue"
+progressbar_elapsed_color = white
+# Colors ..
+colors_enabled = "yes"
+empty_tag_color = "red"
+statusbar_color = "blue"
+state_line_color = "black"
+state_flags_color = "green"
+main_window_color = "blue" 
+header_window_color = "black"
+# Display ..
+song_list_format = " $3%n $1• $8%y $1• $5%b $8%t $R$0%A $1• $2%l"
+song_columns_list_format = "(3)[]{}(92)[white]{t} (4)[red]{l}"
+song_status_format = "$b $8%a $8•$3• $3%t $3•$5• $5%b $5•$2• $2%y"
+playlist_display_mode = "classic" (classic/columns)
+
+#Scripts
+execute_on_song_change = ncmpcpp_notify
+execute_on_player_state_change = ncmpcpp_notify
+

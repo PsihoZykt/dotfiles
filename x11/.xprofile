@@ -1,0 +1,20 @@
+#!/bin/sh
+
+# This file runs when a DM logs you into a graphical session.
+# If you use startx/xinit like a Chad, this file will also be sourced.
+#[[ -f ~/.config/x11/Xmodmap ]] && xmodmap ~/.config/x11/Xmodmap 
+mpd &			# music player daemon-you might prefer it as a service though
+#xrdb ${XDG_CONFIG_HOME:-$HOME/.config}/x11/xresources &	# Uncomment to use Xresources colors/settings on startup
+#Pick one of the compositors below
+#xcompmgr -c &		#xcompmgr. Compositor  for transparency
+picom & # Compositor for tranparancy and animations, requires picom-jonaburg, and picom.conf. A little bit laggy
+dunst &			# dunst for notifications
+xset r rate 190 45 &	# Speed xrate up
+remaps
+#unclutter &		# Remove mouse when idle
+#stylish # set the background with custom styli.sh script. The problem is, it's uses internet and it's can't fetch image in first few seconds after OS booted up
+
+setbg ~/.local/share/wallpapers/2014-03-28_ScotlandFalkirkWheel_EN-AU7830242558_1920x1080.jpg
+#setbg ~/.local/share/wallpapers/ & # set the background with the `setbg` script
+dwmblocks & 
+#removexsessionerrors #LightDM hardcoded put .xsession-errors in HOME. So this script just remove it
