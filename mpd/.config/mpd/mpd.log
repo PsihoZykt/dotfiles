@@ -14374,3 +14374,11 @@ Jul 19 22:49 : player: played "Лучшая классика тысячелет�
 Jul 19 22:51 : player: played "Вечное/Bize - Carmen Suita №2.mp3"
 Jul 19 23:12 : player: played "Вечное/J S Bach - Brandenburgskiy konc №3.mp3"
 Jul 19 23:20 : player: played "Вечное/J S Bach - Brandenburgskiy konc №3.mp3"
+Jul 20 04:20 : player: played "101 Classics/CD1 - The Great Waltzes/01. Johann Strauss Jr - An der schonon blauen Donau, Op. 314.mp3"
+Jul 20 04:20 : player: played "101 Classics/CD1 - The Great Waltzes/01. Johann Strauss Jr - An der schonon blauen Donau, Op. 314.mp3"
+Jul 20 09:04 : exception: Failed to decode /mnt/media/music/101 Classics/CD1 - The Great Waltzes/01. Johann Strauss Jr - An der schonon blauen Donau, Op. 314.mp3; Failed to open '/mnt/media/music/101 Classics/CD1 - The Great Waltzes/01. Johann Strauss Jr - An der schonon blauen Donau, Op. 314.mp3': No such file or directory
+Jul 20 09:04 : exception: inotify_add_watch() has failed: No such file or directory
+Jul 20 09:04 : player: played "101 Classics/CD1 - The Great Waltzes/01. Johann Strauss Jr - An der schonon blauen Donau, Op. 314.mp3"
+Jul 20 14:18 : player: played "Порнофильмы - Дискография/2020 - Это пройдёт/01. Это пройдёт.mp3"
+Jul 20 14:19 : player: played "Порнофильмы - Дискография/2012 - Сколько Взорвётся Бомб (EP)/04. Сомнения.mp3"
+Jul 20 14:21 : player: played "Порнофильмы - Дискография/2015 - Русская Мечта. Часть I/07. Пьяный Контракт.mp3"

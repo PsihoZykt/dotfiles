@@ -1,7 +1,3 @@
-# My fish config. Not much to see here; just some pretty standard stuff.
-
-
-
 ### ADDING TO THE PATH
 # First line removes the path; second line sets it.  Without the first line,
 # your path gets massive and fish becomes very slow.
@@ -19,8 +15,8 @@ set -x MANPAGER "nvim -c 'set ft=man' -"
 
 ### SET EITHER DEFAULT EMACS MODE OR VI MODE ###
 function fish_user_key_bindings
-   fish_default_key_bindings
-#  fish_vi_key_bindings
+#  fish_default_key_bindings
+  fish_vi_key_bindings
 end
 
 ### SPARK ###
@@ -196,9 +192,8 @@ end
 # Get this script from my GitLab: gitlab.com/dwt1/shell-color-scripts
 # Or install it from the Arch User Repository: shell-color-scripts
 #colorscript random
-navi widget fish | source
 #Spark  thing
-clear
+#clear
 ### SETTING THE STARSHIP PROMPT ###
 starship init fish | source
 

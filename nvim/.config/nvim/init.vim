@@ -4,20 +4,41 @@ Plug 'haya14busa/incsearch.vim'
 Plug 'vimwiki/vimwiki'
 Plug 'bling/vim-airline'
 Plug 'godlygeek/tabular'
-""Plug 'plasticboy/vim-markdown'
-"Plug 'nvim-lua/popup.nvim'
-"Plug 'nvim-lua/plenary.nvim'
-"Plug 'nvim-telescope/telescope.nvim'
+
+"Telescope
+Plug 'nvim-lua/popup.nvim'
+Plug 'nvim-lua/plenary.nvim'
+Plug 'nvim-telescope/telescope.nvim'
+
+Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}  " We recommend updating the parsers on update
+Plug 'nvim-treesitter/playground'
+
+Plug 'dbeniamine/cheat.sh-vim'
+"Plug 'WolfgangMehner/bash-support'
+Plug 'vim-syntastic/syntastic'
 call plug#end()
 " General settings
 " ---------------------------------------------------------------------------
 "  There is some code in nvim/after/ftplugin, that can breaks smth, so you can
 "  look there
 set nocompatible "Vimwiki says do it "Vimwiki says do it
+
+" --------------- 
+"  SYNTATIC ANALIZER
+set statusline+=%#warningmsg#
+set statusline+=%{SyntasticStatuslineFlag()}
+set statusline+=%*
+
+let g:syntastic_always_populate_loc_list = 1
+let g:syntastic_auto_loc_list = 1
+let g:syntastic_check_on_open = 1
+let g:syntastic_check_on_wq = 0
+"------------------------
 filetype plugin on
 set autoread " reload files changed outside of Vim not currently modified in Vim (needs below)
 au FocusGained,BufEnter * :silent! !  " http://stackoverflow.com/questions/2490227/how-does-vims-autoread-work#20418591
 set ignorecase
+set cedit =\<C-Y> "By default Ctrl+F in default mode opens COmmand line which is annoying and i dont think this mode is useful at all
 set encoding=utf-8 fenc=utf-8 "fencs=iso-2022-jp,euc-jp,cp932 " use Unicode
 set visualbell " errors flash screen rather than emit beep
 set backspace=indent,eol,start " make Backspace work like Delete
@@ -71,8 +92,20 @@ cnoremap w!! execute 'silent! write !sudo tee % >/dev/null' <bar> edit! "Save fi
 nnoremap c "_c
 "Replace all is aliased to S
 nnoremap S :%s//g<Left><Left>
+
 " ---------------------
-"
+"----------------------
+"=> TELESCOPE
+nnoremap <leader>ff <cmd>Telescope find_files<cr>
+nnoremap <leader>fg <cmd>Telescope live_grep<cr>
+nnoremap <leader>fb <cmd>Telescope buffers<cr>
+nnoremap <leader>fh <cmd>Telescope help_tags<cr>
+nnoremap <leader>fo <cmd>Telescope oldfiles<cr>
+
+
+
+
+
 " Dissable arrow
 noremap <Up> <Nop>
 noremap <Down> <Nop>
@@ -110,3 +143,5 @@ set cursorline " http://vim.wikia.com/wiki/Highlight_current_line
 set termguicolors
 hi Normal guibg=NONE ctermbg=NONE
 " ---------------------------------------------------------------------------
+"
+lua require 'nvim-treesitter.configs'.setup { highlight = {enable = true} }
