@@ -98,12 +98,6 @@ alias rm="rm -vI"
 alias mkd="mkdir -pv"
 alias ffmpeg="ffmpeg -hide_banner"
 alias diff="diff --color"
-# These common commands are just too long! Abbreviate them.
-abbr -a -g  ka "killall"
-abbr -a -g  g "git"
-abbr -a -g  sdn "sudo shutdown -h now"
-abbr -a -g  p "sudo pacman"
-abbr -a -g  z "zathura"
 
 
 

@@ -17,6 +17,7 @@ require('telescope').setup {
         }
     },
     extensions = {
+      'zoxide'
     }
 }
 

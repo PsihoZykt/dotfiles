@@ -12,6 +12,7 @@ abbr -a -g  cdshell "cd /home/psihoz/.config/shell && ls -a"
 abbr -a -g  cdwm "cd /home/psihoz/.local/src/dwm-flexipatch-finalized && ls -a"
 abbr -a -g  cdwmb "cd /home/psihoz/.local/src/dwmblocks && ls -a"
 abbr -a -g  cdst "cd /home/psihoz/.local/src/st-flexipatch && ls -a"
+abbr -a -g  cddot "cd /home/psihoz/.dotfiles"
 
 #Files
 abbr -a -g  cfbf "$EDITOR /home/psihoz/.config/shell/bm-files" 

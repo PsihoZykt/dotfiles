@@ -1,7 +1,7 @@
 ### ADDING TO THE PATH
 # First line removes the path; second line sets it.  Without the first line,
 # your path gets massive and fish becomes very slow.
-set -x SHELL /bin/bash
+#set -x SHELL /bin/bash
 set -e fish_user_paths
 ### EXPORT ###
 set fish_greeting # Supresses fish's intro message
@@ -180,8 +180,6 @@ end
 
 ### END OF FUNCTIONS ###
 
-
-
 if test -f $XDG_CONFIG_HOME/fish/aliasrc.fish
   source $XDG_CONFIG_HOME/fish/aliasrc.fish
 end
@@ -194,6 +192,7 @@ end
 #colorscript random
 #Spark  thing
 #clear
+zoxide init fish | source
 ### SETTING THE STARSHIP PROMPT ###
 starship init fish | source
 
