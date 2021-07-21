@@ -100,5 +100,5 @@ alias ffmpeg="ffmpeg -hide_banner"
 alias diff="diff --color"
 
 
-
-
+# This commands just too long
+alias r="ranger"
