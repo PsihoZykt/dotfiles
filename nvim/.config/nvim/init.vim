@@ -11,6 +11,12 @@ Plug 'nvim-telescope/telescope.nvim'
 Plug 'jvgrootveld/telescope-zoxide'
 " ------
 Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}  " We recommend updating the parsers on update
+"---------- LSP
+Plug 'prabirshrestha/vim-lsp'
+Plug 'mattn/vim-lsp-settings'
+Plug 'prabirshrestha/asyncomplete.vim'
+Plug 'prabirshrestha/asyncomplete-lsp.vim'
+"-----------------
 "Plug 'nvim-treesitter/playground'
 "Plug 'dbeniamine/cheat.sh-vim'
 "Plug 'WolfgangMehner/bash-support'
@@ -22,9 +28,8 @@ call plug#end()
 " ---------------------------------------------------------------------------
 "  There is some code in nvim/after/ftplugin, that can breaks smth, so you can
 "  look there
-set nocompatible "Vimwiki says do it "Vimwiki says do it
-
-
+set nocompatible
+syntax on
 "------------------------
 filetype plugin on
 set autoread " reload files changed outside of Vim not currently modified in Vim (needs below)
@@ -88,7 +93,6 @@ endif
 " Colors
 " ---------------------------------------------------------------------------
 colorscheme dracula
-syntax enable
 " CursorLine - sometimes autocmds are not performant; turn off if so
 set cursorline " http://vim.wikia.com/wiki/Highlight_current_line
 " Current line highlighting
@@ -96,5 +100,3 @@ set termguicolors
 hi Normal guibg=NONE ctermbg=NONE
 " ---------------------------------------------------------------------------
 
-noremap <CR> <CR> 
-"inoremap <silent><buffer> <a-cr>  <C-]><Esc>:VimwikiReturn 3 5<CR> 

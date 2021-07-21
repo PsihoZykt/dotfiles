@@ -14389,3 +14389,25 @@ Jul 20 23:40 : player: played "Порнофильмы - Дискография/2
 Jul 20 23:51 : player: played "101 Classics/CD1 - The Great Waltzes/02. Johann Strauss Jr - Emperor Waltz, Op. 437.mp3"
 Jul 20 23:55 : player: played "101 Classics/CD7 - Mostly Baroque/04. Vivaldi - The Four Seasons - Spring.mp3"
 Jul 21 00:03 : player: played "101 Classics/CD4 - Adagio - Music for relaxing/08. Bruch - Violin Concerto No.1 in G Minor, Op.26 - Adagio.mp3"
+Jul 21 00:08 : player: played "101 Classics/CD3 - Mighty Choruses/12. Wagner - Wedding Chorus from Lohengrin.mp3"
+Jul 21 00:09 : player: played "101 Classics/CD7 - Mostly Baroque/03. J.S. Bach - Badinerie from Suite No.2.mp3"
+Jul 21 00:12 : player: played "101 Classics/CD2 - The Romantic Piano/04. Beethoven - Bagatelle in A Minor, WoO 59, 'Fur Elise'.mp3"
+Jul 21 00:15 : player: played "101 Classics/CD7 - Mostly Baroque/06. J.S. Bach - Toccata from Toccata and Fugue in D Minor.mp3"
+Jul 21 00:18 : player: played "101 Classics/CD3 - Mighty Choruses/09. Mozart - Lacrymosa dies illa from Requiem.mp3"
+Jul 21 00:21 : player: played "101 Classics/CD6 - Opera Highlights/06. Verdi - Libiamo ne`lieti calici (Drinking Song) from La Traviata.mp3"
+Jul 21 03:03 : player: played "Порнофильмы - Дискография/2013 - Карма Рабочих (EP)/06. Про Вас.mp3"
+Jul 21 03:03 : player: played "101 Classics/CD2 - The Romantic Piano/12. Mozart - Alla turca from Piano Sonata No. 11 in A Major K. 331.mp3"
+Jul 21 03:03 : player: played "Порнофильмы - Дискография/2013 - Карма Рабочих (EP)/06. Про Вас.mp3"
+Jul 21 03:03 : player: played "Порнофильмы - Дискография/2013 - Карма Рабочих (EP)/06. Про Вас.mp3"
+Jul 21 09:40 : exception: Failed to decode /mnt/media/music/Порнофильмы - Дискография/2013 - Карма Рабочих (EP)/06. Про Вас.mp3; Failed to open '/mnt/media/music/Порнофильмы - Дискография/2013 - Карма Рабочих (EP)/06. Про Вас.mp3': No such file or directory
+Jul 21 09:40 : player: played "Порнофильмы - Дискография/2013 - Карма Рабочих (EP)/06. Про Вас.mp3"
+Jul 21 09:40 : exception: Failed to decode /mnt/media/music/Порнофильмы - Дискография/2014 - Молодость и Панк-Рок/06. Ружье.mp3; Failed to open '/mnt/media/music/Порнофильмы - Дискография/2014 - Молодость и Панк-Рок/06. Ружье.mp3': No such file or directory
+Jul 21 09:40 : player: played "Порнофильмы - Дискография/2014 - Молодость и Панк-Рок/06. Ружье.mp3"
+Jul 21 09:40 : exception: inotify_add_watch() has failed: No such file or directory
+Jul 21 15:48 : exception: Not playing
+Jul 21 15:50 : player: played "Порнофильмы - Дискография/2013 - Карма Рабочих (EP)/06. Про Вас.mp3"
+Jul 21 15:53 : player: played "Порнофильмы - Дискография/2013 - Карма Рабочих (EP)/02. Первый День Без Нас.mp3"
+Jul 21 15:54 : player: played "Порнофильмы - Дискография/2016 - Как В Последний Раз (Maxi-Single)/01. Как в последний раз.mp3"
+Jul 21 15:56 : player: played "101 Classics/CD2 - The Romantic Piano/09. Satie - Troisieme Gymnopdie.mp3"
+Jul 21 16:40 : player: played "101 Classics/CD7 - Mostly Baroque/07. Haydn - Finale from Trumpet Concerto in E Flat Minor.mp3"
+Jul 21 16:41 : player: played "101 Classics/CD7 - Mostly Baroque/03. J.S. Bach - Badinerie from Suite No.2.mp3"
