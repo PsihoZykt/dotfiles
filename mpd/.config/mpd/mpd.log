@@ -14444,3 +14444,10 @@ Jul 21 23:16 : player: played "101 Classics/CD3 - Mighty Choruses/13. Verdi - Ch
 Jul 21 23:23 : player: played "101 Classics/CD4 - Adagio - Music for relaxing/07. Mozart - Oboe Quartet in F Major, K.370 - Adagio.mp3"
 Jul 21 23:26 : player: played "IC3PEAK - Дискография (2014-2020)/Альбомы/2020 - До Свидания/06 - Плак-Плак.mp3"
 Jul 21 23:28 : player: played "101 Classics/CD2 - The Romantic Piano/05. Brahms - Waltz in A Flat Major, Op. 39, No. 15.mp3"
+Jul 22 02:25 : player: played "101 Classics/CD4 - Adagio - Music for relaxing/05. Mozart - Piano Concerto No.23 in A Major, K.488 - Adagio.mp3"
+Jul 22 02:25 : player: played "101 Classics/CD2 - The Romantic Piano/06. Grieg - Piano Concerto in A Minor Op. 16 - Adagio.mp3"
+Jul 22 06:39 : exception: Failed to decode /mnt/media/music/101 Classics/CD2 - The Romantic Piano/06. Grieg - Piano Concerto in A Minor Op. 16 - Adagio.mp3; Failed to open '/mnt/media/music/101 Classics/CD2 - The Romantic Piano/06. Grieg - Piano Concerto in A Minor Op. 16 - Adagio.mp3': No such file or directory
+Jul 22 06:39 : player: played "101 Classics/CD2 - The Romantic Piano/06. Grieg - Piano Concerto in A Minor Op. 16 - Adagio.mp3"
+Jul 22 06:39 : exception: Failed to decode /mnt/media/music/IC3PEAK - Дискография (2014-2020)/Альбомы/2020 - До Свидания/05 - У меня нет друзей.mp3; Failed to open '/mnt/media/music/IC3PEAK - Дискография (2014-2020)/Альбомы/2020 - До Свидания/05 - У меня нет друзей.mp3': No such file or directory
+Jul 22 06:39 : player: played "IC3PEAK - Дискография (2014-2020)/Альбомы/2020 - До Свидания/05 - У меня нет друзей.mp3"
+Jul 22 06:39 : exception: inotify_add_watch() has failed: No such file or directory

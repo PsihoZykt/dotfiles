@@ -28,7 +28,8 @@ Plug 'vim-syntastic/syntastic'
 ""Plug 'mvdan/sh'
 ""Plug 'preservim/nerdtree'
 ""Plug 'ryanoasis/vim-devicons'
-"
+Plug 'kyazdani42/nvim-web-devicons'
+Plug 'ap/vim-css-color'
 call plug#end()
 " General settings
 " ---------------------------------------------------------------------------

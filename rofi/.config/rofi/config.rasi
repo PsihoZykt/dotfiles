@@ -1,7 +1,10 @@
-/** Basic config file **/
-
 configuration {
-  show-icons:         true;
-  icon-theme:         "Papirus";
+	width: 900;
+  lines: 7;
+	font: "CaskaydiaCove Nerd Font Mono 13";
+	show-icons: true;
+	hide-scrollbar: true;
+	show-match: false;
+	theme: "/home/psihoz/.config/rofi/themes/dracula.rasi";
 }
-@import "/usr/share/rofi/themes/Arc-Dark.rasi"
+element-icon { size: 1.65ch ; }
