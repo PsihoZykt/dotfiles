@@ -23,7 +23,7 @@ Plug 'prabirshrestha/asyncomplete-lsp.vim'
 ""-----------------
 "Plug 'dbeniamine/cheat.sh-vim'
 ""Plug 'WolfgangMehner/bash-support'
-Plug 'vim-syntastic/syntastic'
+"Plug 'vim-syntastic/syntastic'
 ""Plug 'Chiel92/vim-autoformat'
 ""Plug 'mvdan/sh'
 ""Plug 'preservim/nerdtree'
