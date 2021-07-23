@@ -14490,3 +14490,16 @@ Jul 23 12:57 : player: played "101 Classics/CD5 - Largo - Music for reading/10. 
 Jul 23 13:01 : player: played "101 Classics/CD3 - Mighty Choruses/13. Verdi - Chorus of the Hebrew Slaves from Nabucco.mp3"
 Jul 23 13:07 : player: played "101 Classics/CD6 - Opera Highlights/12. Bizet - Au fond du temple saint (Duet) from The Pearl Fishers.mp3"
 Jul 23 13:12 : player: played "101 Classics/CD6 - Opera Highlights/13. Rossini - Factorum aria from Barber of Seville.mp3"
+Jul 23 21:46 : player: played "101 Classics/CD2 - The Romantic Piano/01. Tchaikovsky - Piano Concerto No. 1 in B Flat Minor, Op. 23 - opening.mp3"
+Jul 23 21:48 : player: played "IC3PEAK - Дискография (2014-2020)/Альбомы/2017 - Сладкая жизнь/1 - Грезы.mp3"
+Jul 23 21:50 : player: played "IC3PEAK - Дискография (2014-2020)/EP и синглы/2018 - Сказка/1 - Сказка.mp3"
+Jul 23 21:54 : player: played "IC3PEAK - Дискография (2014-2020)/Альбомы/2020 - До Свидания/05 - У меня нет друзей.mp3"
+Jul 23 22:01 : player: played "IC3PEAK - Дискография (2014-2020)/EP и синглы/2016 - Really Really/1 - Really Really.mp3"
+Jul 23 22:06 : player: played "IC3PEAK - Дискография (2014-2020)/Альбомы/2018 - Сказка/8 - Слезы.mp3"
+Jul 23 22:22 : player: played "IC3PEAK - Дискография (2014-2020)/Альбомы/2020 - До Свидания/11 - Весело и грустно.mp3"
+Jul 23 22:30 : exception: Failed to decode /mnt/media/music/IC3PEAK - Дискография (2014-2020)/Альбомы/2020 - До Свидания/11 - Весело и грустно.mp3; Failed to open '/mnt/media/music/IC3PEAK - Дискография (2014-2020)/Альбомы/2020 - До Свидания/11 - Весело и грустно.mp3': No such file or directory
+Jul 23 22:30 : exception: Failed to decode /mnt/media/music/IC3PEAK - Дискография (2014-2020)/Альбомы/2020 - До Свидания/08 - Яма.mp3; Failed to open '/mnt/media/music/IC3PEAK - Дискография (2014-2020)/Альбомы/2020 - До Свидания/08 - Яма.mp3': No such file or directory
+Jul 23 22:30 : player: played "IC3PEAK - Дискография (2014-2020)/Альбомы/2020 - До Свидания/11 - Весело и грустно.mp3"
+Jul 23 22:30 : exception: inotify_add_watch() has failed: No such file or directory
+Jul 23 23:46 : exception: inotify_add_watch() has failed: No such file or directory
+Jul 23 23:55 : exception: inotify_add_watch() has failed: No such file or directory

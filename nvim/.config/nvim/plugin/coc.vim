@@ -5,17 +5,15 @@ let g:coc_global_extensions = [
 	\ 'coc-pairs',
 	\ 'coc-prettier',
 	\ 'coc-tsserver',
-	\ 'coc-html',
-	\ 'coc-css',
-	\ 'coc-json',
-	\ 'coc-angular',
-	\ 'coc-explorer',
-	\ 'coc-vimtex',
-  \ 'coc-python',
-  \ 'coc-marketplace'
+	\ 'coc-html'
 	\ ]
-noremap <silent> <A-f> :CocCommand explorer<CR>
-
+"	\ 'coc-css',
+"	\ 'coc-json',
+"	\ 'coc-angular',
+"	\ 'coc-explorer',
+"	\ 'coc-vimtex',
+"  \ 'coc-python',
+"  \ 'coc-marketplace'
 " From Coc Readme
 set updatetime=300
 
@@ -33,7 +31,7 @@ set signcolumn=yes
 " Use command ':verbose imap <tab>' to make sure tab is not mapped by other plugin.
 inoremap <silent><expr> <TAB>
 			\ pumvisible() ? "\<C-n>" :
-			\ <SID>check_back_space() ? "\<TAB>" :
+      \ <SID>check_back_space() ? "\<TAB>" :
 			\ coc#refresh()
 inoremap <expr><S-TAB> pumvisible() ? "\<C-p>" : "\<C-h>"
 
@@ -111,3 +109,7 @@ command! -nargs=0 OR   :call     CocAction('runCommand', 'editor.action.organize
 " Add status line support, for integration with other plugin, checkout `:h coc-status`
 set statusline^=%{coc#status()}%{get(b:,'coc_current_function','')}
 
+" Make <CR> auto-select the first completion item and notify coc.nvim to
+" format on enter, <cr> could be remapped by other vim plugin
+inoremap <silent><expr> <cr> pumvisible() ? coc#_select_confirm()
+                              \: "\<C-g>u\<CR>\<c-r>=coc#on_enter()\<CR>"

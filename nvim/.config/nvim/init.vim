@@ -21,16 +21,19 @@ Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}  " We recommend upda
 Plug 'alvan/vim-closetag'
 Plug 'tpope/vim-surround'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
+Plug 'junegunn/fzf.vim'
 "" DEBUGGING
 "Plug 'puremourning/vimspector'
 "" 
 ""-----------------
 "Plug 'dbeniamine/cheat.sh-vim'
 ""Plug 'WolfgangMehner/bash-support'
-Plug 'vim-syntastic/syntastic'
+"Plug 'dense-analysis/ale'
+Plug 'sheerun/vim-polyglot'
+"Plug 'vim-syntastic/syntastic'
 ""Plug 'Chiel92/vim-autoformat'
 ""Plug 'mvdan/sh'
-""Plug 'preservim/nerdtree'
+Plug 'preservim/nerdtree'
 ""Plug 'ryanoasis/vim-devicons'
 "Plug 'kyazdani42/nvim-web-devicons'
 Plug 'ap/vim-css-color'
