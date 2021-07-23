@@ -47,3 +47,6 @@ export MOZ_USE_XINPUT2="1"		# Mozilla smooth scrolling/touchpads.
 
 #For backuping programm - bup
 export BUP_DIR=/home/psihoz/.backup/.bup
+
+#Fox for alacritty, when command "alacritty -e nvim -c <PlugCommand> doesn't work properly, so i use NvimRemoteControl to fix this
+#export NVIM_LISTEN_ADDRESS=/tmp/nvimsocket

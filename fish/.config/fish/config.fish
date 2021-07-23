@@ -12,7 +12,6 @@ set -gx PATH /home/psihoz/.config/cargo/bin $PATH
 ### SET MANPAGER
 ### "nvim" as manpager
 set -x MANPAGER "nvim -c 'set ft=man' -"
-
 ### SET EITHER DEFAULT EMACS MODE OR VI MODE ###
 function fish_user_key_bindings
 #  fish_default_key_bindings

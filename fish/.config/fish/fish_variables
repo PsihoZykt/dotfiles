@@ -4,6 +4,7 @@ SETUVAR BROWSER:icecat
 SETUVAR EDITOR:nvim
 SETUVAR GTK2_RC_FILES:/home/psihoz/\x2econfig/gtk\x2d2\x2e0/gtkrc\x2d2\x2e0
 SETUVAR MPD_HOST:/home/psihoz/\x2econfig/mpd/socket
+SETUVAR NVIM_LISTEN_ADDRESS:/tmp/nvimsocket
 SETUVAR PASSWORD_STORE_DIR:/home/psihoz/\x2elocal/share/password\x2dstore
 SETUVAR --path PATH:/home/psihoz/\x2elocal/bin\x1e/home/psihoz/Applications\x1e/usr/local/bin\x1e/usr/bin\x1e/bin\x1e/usr/local/sbin\x1e/usr/lib/jvm/default/bin\x1e/usr/bin/site_perl\x1e/usr/bin/vendor_perl\x1e/usr/bin/core_perl\x1e/home/psihoz/\x2elocal/bin/myScripts/cron\x1e/home/psihoz/\x2elocal/bin/myScripts/dmenuStuff\x1e/home/psihoz/\x2elocal/bin/myScripts/fancyStuff\x1e/home/psihoz/\x2elocal/bin/myScripts/statusbar\x1e/home/psihoz/\x2elocal/bin/myScripts\x1e/home/psihoz/\x2elocal/bin
 SETUVAR SUDO_ASKPASS:/home/psihoz/\x2elocal/bin/dmenupass

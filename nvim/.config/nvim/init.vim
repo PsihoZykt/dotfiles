@@ -13,22 +13,26 @@ Plug 'jvgrootveld/telescope-zoxide'
 "Plug 'nvim-treesitter/playground'
 Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}  " We recommend updating the parsers on update
 ""---------- LSP
-Plug  'prabirshrestha/vim-lsp'
-Plug 'mattn/vim-lsp-settings'
-Plug 'prabirshrestha/asyncomplete.vim'
-Plug 'prabirshrestha/asyncomplete-lsp.vim'
+"Plug  'prabirshrestha/vim-lsp'
+"Plug 'mattn/vim-lsp-settings'
+"Plug 'prabirshrestha/asyncomplete.vim'
+"Plug 'prabirshrestha/asyncomplete-lsp.vim'
+" Tags
+Plug 'alvan/vim-closetag'
+Plug 'tpope/vim-surround'
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
 "" DEBUGGING
 "Plug 'puremourning/vimspector'
 "" 
 ""-----------------
 "Plug 'dbeniamine/cheat.sh-vim'
 ""Plug 'WolfgangMehner/bash-support'
-"Plug 'vim-syntastic/syntastic'
+Plug 'vim-syntastic/syntastic'
 ""Plug 'Chiel92/vim-autoformat'
 ""Plug 'mvdan/sh'
 ""Plug 'preservim/nerdtree'
 ""Plug 'ryanoasis/vim-devicons'
-Plug 'kyazdani42/nvim-web-devicons'
+"Plug 'kyazdani42/nvim-web-devicons'
 Plug 'ap/vim-css-color'
 call plug#end()
 " General settings
@@ -108,3 +112,5 @@ set cursorline " http://vim.wikia.com/wiki/Highlight_current_line
 set termguicolors
 hi Normal guibg=NONE ctermbg=NONE
 " ---------------------------------------------------------------------------
+"Fx for alacritty, when command "alacritty -e nvim -c <PlugCommand> doesn't work properly, so it kinda helps to fix this
+autocmd VimEnter * silent exec "!kill -s SIGWINCH" getpid()

@@ -16,6 +16,6 @@ remaps
 
 setbg /mnt/media/wallpapers/2014-03-28_ScotlandFalkirkWheel_EN-AU7830242558_1920x1080.jpg
 #setbg /mnt/media/wallpapers/ & # set the background with the `setbg` script
-dwmblocks & 
+#dwmblocks & 
 #removexsessionerrors #LightDM hardcoded put .xsession-errors in HOME. So this script just remove it
-
+#pgrep -fl 'pidswallow -gl' || pidswallow -gl
