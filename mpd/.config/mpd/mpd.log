@@ -14503,3 +14503,13 @@ Jul 23 22:30 : player: played "IC3PEAK - Дискография (2014-2020)/Ал
 Jul 23 22:30 : exception: inotify_add_watch() has failed: No such file or directory
 Jul 23 23:46 : exception: inotify_add_watch() has failed: No such file or directory
 Jul 23 23:55 : exception: inotify_add_watch() has failed: No such file or directory
+Jul 24 00:56 : player: played "IC3PEAK - Дискография (2014-2020)/Альбомы/2018 - Сказка/8 - Слезы.mp3"
+Jul 24 00:57 : exception: Failed to decode /mnt/media/music/IC3PEAK - Дискография (2014-2020)/Альбомы/2018 - Сказка/8 - Слезы.mp3; Failed to open '/mnt/media/music/IC3PEAK - Дискография (2014-2020)/Альбомы/2018 - Сказка/8 - Слезы.mp3': No such file or directory
+Jul 24 00:57 : player: played "IC3PEAK - Дискография (2014-2020)/Альбомы/2018 - Сказка/8 - Слезы.mp3"
+Jul 24 00:57 : exception: inotify_add_watch() has failed: No such file or directory
+Jul 24 01:24 : exception: inotify_add_watch() has failed: No such file or directory
+Jul 24 01:49 : exception: inotify_add_watch() has failed: No such file or directory
+Jul 24 02:31 : exception: inotify_add_watch() has failed: No such file or directory
+Jul 24 02:35 : exception: inotify_add_watch() has failed: No such file or directory
+Jul 24 02:36 : exception: inotify_add_watch() has failed: No such file or directory
+Jul 24 02:41 : exception: inotify_add_watch() has failed: No such file or directory

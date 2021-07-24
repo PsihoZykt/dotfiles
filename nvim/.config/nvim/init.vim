@@ -1,27 +1,27 @@
 call plug#begin("~/.config/nvim/plugged")
-Plug 'dracula/vim', { 'as': 'dracula' }
-Plug 'haya14busa/incsearch.vim'
-Plug 'vimwiki/vimwiki'
+"Plug 'dracula/vim', { 'as': 'dracula' }
+"Plug 'haya14busa/incsearch.vim'
+"Plug 'vimwiki/vimwiki'
 Plug 'itchyny/lightline.vim'
 ""Plug 'godlygeek/tabular'
 ""Telescope
-Plug 'nvim-lua/popup.nvim'
-Plug 'nvim-lua/plenary.nvim'
-Plug 'nvim-telescope/telescope.nvim'
-Plug 'jvgrootveld/telescope-zoxide'
+"Plug 'nvim-lua/popup.nvim'
+"Plug 'nvim-lua/plenary.nvim'
+"Plug 'nvim-telescope/telescope.nvim'
+"Plug 'jvgrootveld/telescope-zoxide'
 "" ------ TREE SITTER
 "Plug 'nvim-treesitter/playground'
-Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}  " We recommend updating the parsers on update
+"Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}  " We recommend updating the parsers on update
 ""---------- LSP
 "Plug  'prabirshrestha/vim-lsp'
 "Plug 'mattn/vim-lsp-settings'
 "Plug 'prabirshrestha/asyncomplete.vim'
 "Plug 'prabirshrestha/asyncomplete-lsp.vim'
 " Tags
-Plug 'alvan/vim-closetag'
-Plug 'tpope/vim-surround'
-Plug 'neoclide/coc.nvim', {'branch': 'release'}
-Plug 'junegunn/fzf.vim'
+"Plug 'alvan/vim-closetag'
+"Plug 'tpope/vim-surround'
+"Plug 'neoclide/coc.nvim', {'branch': 'release'}
+"Plug 'junegunn/fzf.vim'
 "" DEBUGGING
 "Plug 'puremourning/vimspector'
 "" 
@@ -29,14 +29,14 @@ Plug 'junegunn/fzf.vim'
 "Plug 'dbeniamine/cheat.sh-vim'
 ""Plug 'WolfgangMehner/bash-support'
 "Plug 'dense-analysis/ale'
-Plug 'sheerun/vim-polyglot'
+"Plug 'sheerun/vim-polyglot'
 "Plug 'vim-syntastic/syntastic'
 ""Plug 'Chiel92/vim-autoformat'
 ""Plug 'mvdan/sh'
-Plug 'preservim/nerdtree'
+"Plug 'preservim/nerdtree'
 ""Plug 'ryanoasis/vim-devicons'
 "Plug 'kyazdani42/nvim-web-devicons'
-Plug 'ap/vim-css-color'
+"Plug 'ap/vim-css-color'
 call plug#end()
 " General settings
 " ---------------------------------------------------------------------------
@@ -103,8 +103,8 @@ noremap <Right> <Nop>
 nnoremap <SPACE> <Nop>
 " Disabling esc, so i can get used to using CAPS to enter normal mode
 if !empty($DISPLAY) " Disable this in TTY because these scripts use setxkbmap which is impossible in tty
- au InsertLeave * silent! !change-layout us
-au InsertEnter * silent! !change-layout us restart
+"au InsertLeave * silent! !change-layout us
+"au InsertEnter * silent! !change-layout us restart
 endif
 " Colors
 " ---------------------------------------------------------------------------
@@ -116,4 +116,4 @@ set termguicolors
 hi Normal guibg=NONE ctermbg=NONE
 " ---------------------------------------------------------------------------
 "Fx for alacritty, when command "alacritty -e nvim -c <PlugCommand> doesn't work properly, so it kinda helps to fix this
-autocmd VimEnter * silent exec "!kill -s SIGWINCH" getpid()
+"autocmd VimEnter * silent exec "!kill -s SIGWINCH" getpid()

@@ -194,5 +194,6 @@ end
 #clear
 zoxide init fish | source
 ### SETTING THE STARSHIP PROMPT ###
-starship init fish | source
+#starship init fish | source
+
 
