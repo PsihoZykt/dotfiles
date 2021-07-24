@@ -195,5 +195,3 @@ end
 zoxide init fish | source
 ### SETTING THE STARSHIP PROMPT ###
 starship init fish | source
-
-

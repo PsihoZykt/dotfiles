@@ -1,11 +1,12 @@
 call plug#begin("~/.config/nvim/plugged")
 Plug 'dracula/vim', { 'as': 'dracula' }
 Plug 'haya14busa/incsearch.vim'
+Plug 'haya14busa/incsearch-easymotion.vim'
 Plug 'vimwiki/vimwiki'
 Plug 'itchyny/lightline.vim'
 ""Plug 'godlygeek/tabular'
-""Telescope
 Plug 'easymotion/vim-easymotion'
+""Telescope
 Plug 'nvim-lua/popup.nvim'
 Plug 'nvim-lua/plenary.nvim'
 Plug 'nvim-telescope/telescope.nvim'
@@ -27,23 +28,24 @@ Plug 'junegunn/fzf.vim'
 "Plug 'puremourning/vimspector'
 "" 
 ""-----------------
+Plug 'tpope/vim-commentary'
 "Plug 'dbeniamine/cheat.sh-vim'
-""Plug 'WolfgangMehner/bash-support'
+"Plug 'WolfgangMehner/bash-support'
 "Plug 'dense-analysis/ale'
 "Plug 'sheerun/vim-polyglot'
 "Plug 'vim-syntastic/syntastic'
-""Plug 'Chiel92/vim-autoformat'
+"Plug 'Chiel92/vim-autoformat'
 ""Plug 'mvdan/sh'
-"Plug 'preservim/nerdtree'
-"Plug 'ryanoasis/vim-devicons'
 Plug 'kyazdani42/nvim-web-devicons'
 Plug 'lyokha/vim-xkbswitch'
-Plug 'tpope/vim-sensible'
+"Plug 'tpope/vim-sensible'
 Plug 'mbbill/undotree'
 "ranger 
 Plug 'francoiscabrol/ranger.vim'
-Plug 'rbgrouleff/bclose.vim'
+Plug 'rbgrouleff/bclose.vim' "Requires by ranger
+
 "------------
+Plug 'mhinz/vim-startify'
 "Plug 'ap/vim-css-color'
 call plug#end()
 " General settings
@@ -71,14 +73,15 @@ set backspace=indent,eol,start " make Backspace work like Delete
 set nobackup " don't create `filename~` backups
 set noswapfile " don't create temp files
 set relativenumber number " line numbers and distances
+set numberwidth=1
 set mouse=v " Enable mouse copy\paste
 let mapleader=" "
 set scrolloff=0 " number of lines offset when jumping
 set ttyfast lazyredraw " For some reasons, vimwiki without that does strange things. When you press enter in .md file without this settings, vim goes to normal mode, then to insert mode, which is annoying
 " For text wrapping. Insert linebreak when line is too big
-set textwidth=0
+set textwidth=80
 set wrapmargin=0
-set wrap
+"set wrap
 set linebreak
 " Tab key enters 2 spaces
 " To enter a TAB character when `expandtab` is in effect,
@@ -135,5 +138,19 @@ nnoremap <c-k> <c-w>k
 nnoremap <c-l> <c-w>l
 nnoremap <c-h> <c-w>h
 nnoremap <leader><F5> :UndotreeToggle<CR>
+"UNDODIR
+"-----------
+set undodir=~/.config/nvim/undodir
+if has("persistent_undo")
+   let target_path = expand('~/.config/nvim/undodir')
 
+    " create the directory and any parent directories
+    " if the location does not exist.
+    if !isdirectory(target_path)
+        call mkdir(target_path, "p", 0700)
+    endif
 
+    let &undodir=target_path
+    set undofile
+endif
+"----------------
