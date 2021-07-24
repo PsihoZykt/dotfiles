@@ -21,10 +21,7 @@ alias cat='bat'
 alias du='dust'
 alias cloc='tokei'
 alias ps='procs'
-alias sed='sd'
-alias find='fd'
-alias grep='rg'
-alias htop='btm -mT'
+alias btm='btm -mT'
 
 # pacman and yay
 alias pacsyu='sudo pacman -Syyu'                 # update only standard pkgs

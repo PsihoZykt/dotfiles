@@ -1,27 +1,28 @@
 call plug#begin("~/.config/nvim/plugged")
-"Plug 'dracula/vim', { 'as': 'dracula' }
-"Plug 'haya14busa/incsearch.vim'
-"Plug 'vimwiki/vimwiki'
+Plug 'dracula/vim', { 'as': 'dracula' }
+Plug 'haya14busa/incsearch.vim'
+Plug 'vimwiki/vimwiki'
 Plug 'itchyny/lightline.vim'
 ""Plug 'godlygeek/tabular'
 ""Telescope
-"Plug 'nvim-lua/popup.nvim'
-"Plug 'nvim-lua/plenary.nvim'
-"Plug 'nvim-telescope/telescope.nvim'
-"Plug 'jvgrootveld/telescope-zoxide'
+Plug 'easymotion/vim-easymotion'
+Plug 'nvim-lua/popup.nvim'
+Plug 'nvim-lua/plenary.nvim'
+Plug 'nvim-telescope/telescope.nvim'
+Plug 'jvgrootveld/telescope-zoxide'
 "" ------ TREE SITTER
 "Plug 'nvim-treesitter/playground'
-"Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}  " We recommend updating the parsers on update
+Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}  " We recommend updating the parsers on update
 ""---------- LSP
 "Plug  'prabirshrestha/vim-lsp'
 "Plug 'mattn/vim-lsp-settings'
 "Plug 'prabirshrestha/asyncomplete.vim'
 "Plug 'prabirshrestha/asyncomplete-lsp.vim'
 " Tags
-"Plug 'alvan/vim-closetag'
-"Plug 'tpope/vim-surround'
-"Plug 'neoclide/coc.nvim', {'branch': 'release'}
-"Plug 'junegunn/fzf.vim'
+Plug 'alvan/vim-closetag'
+Plug 'tpope/vim-surround'
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
+Plug 'junegunn/fzf.vim'
 "" DEBUGGING
 "Plug 'puremourning/vimspector'
 "" 
@@ -34,15 +35,28 @@ Plug 'itchyny/lightline.vim'
 ""Plug 'Chiel92/vim-autoformat'
 ""Plug 'mvdan/sh'
 "Plug 'preservim/nerdtree'
-""Plug 'ryanoasis/vim-devicons'
-"Plug 'kyazdani42/nvim-web-devicons'
+"Plug 'ryanoasis/vim-devicons'
+Plug 'kyazdani42/nvim-web-devicons'
+Plug 'lyokha/vim-xkbswitch'
+Plug 'tpope/vim-sensible'
+Plug 'mbbill/undotree'
+"ranger 
+Plug 'francoiscabrol/ranger.vim'
+Plug 'rbgrouleff/bclose.vim'
+"------------
 "Plug 'ap/vim-css-color'
 call plug#end()
 " General settings
 " ---------------------------------------------------------------------------
 "  There is some code in nvim/after/ftplugin, that can breaks smth, so you can
 "  look there
+let g:XkbSwitchEnabled = 1
+let g:XkbSwitchNMappings = ['us']
+
+
+
 set nocompatible
+set inccommand=nosplit
 syntax on
 "------------------------
 filetype plugin on
@@ -101,11 +115,6 @@ noremap <Left> <Nop>
 noremap <Right> <Nop>
 " DIsabling space because it's leader key
 nnoremap <SPACE> <Nop>
-" Disabling esc, so i can get used to using CAPS to enter normal mode
-if !empty($DISPLAY) " Disable this in TTY because these scripts use setxkbmap which is impossible in tty
-"au InsertLeave * silent! !change-layout us
-"au InsertEnter * silent! !change-layout us restart
-endif
 " Colors
 " ---------------------------------------------------------------------------
 colorscheme dracula
@@ -116,4 +125,15 @@ set termguicolors
 hi Normal guibg=NONE ctermbg=NONE
 " ---------------------------------------------------------------------------
 "Fx for alacritty, when command "alacritty -e nvim -c <PlugCommand> doesn't work properly, so it kinda helps to fix this
-"autocmd VimEnter * silent exec "!kill -s SIGWINCH" getpid()
+autocmd VimEnter * silent exec "!kill -s SIGWINCH" getpid()
+nnoremap Q @@
+nnoremap s "_d
+nnoremap ss "_dd
+nnoremap S "_d$
+nnoremap <c-j> <c-w>j
+nnoremap <c-k> <c-w>k
+nnoremap <c-l> <c-w>l
+nnoremap <c-h> <c-w>h
+nnoremap <leader><F5> :UndotreeToggle<CR>
+
+

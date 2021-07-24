@@ -14513,3 +14513,135 @@ Jul 24 02:31 : exception: inotify_add_watch() has failed: No such file or direct
 Jul 24 02:35 : exception: inotify_add_watch() has failed: No such file or directory
 Jul 24 02:36 : exception: inotify_add_watch() has failed: No such file or directory
 Jul 24 02:41 : exception: inotify_add_watch() has failed: No such file or directory
+Jul 24 13:44 : player: played "IC3PEAK - Дискография (2014-2020)/Альбомы/2018 - Сказка/8 - Слезы.mp3"
+Jul 24 13:50 : player: played "IC3PEAK - Дискография (2014-2020)/Альбомы/2016 - FALLAL/01 - Go With The Flow.mp3"
+Jul 24 13:52 : player: played "IC3PEAK - Дискография (2014-2020)/Альбомы/2020 - До Свидания/12 - Еще.mp3"
+Jul 24 13:54 : player: played "IC3PEAK - Дискография (2014-2020)/EP и синглы/2018 - Сказка/1 - Сказка.mp3"
+Jul 24 13:56 : player: played "IC3PEAK - Дискография (2014-2020)/Альбомы/2018 - Сказка/1 - Считалочка.mp3"
+Jul 24 13:59 : player: played "IC3PEAK - Дискография (2014-2020)/Альбомы/2020 - До Свидания/04 - Все равно.mp3"
+Jul 24 14:02 : player: played "IC3PEAK - Дискография (2014-2020)/Альбомы/2020 - До Свидания/07 - мкАД.mp3"
+Jul 24 14:07 : player: played "IC3PEAK - Дискография (2014-2020)/Альбомы/2017 - Сладкая жизнь/1 - Грезы.mp3"
+Jul 24 14:11 : player: played "IC3PEAK - Дискография (2014-2020)/Альбомы/2018 - Сказка/3 - Привет.mp3"
+Jul 24 14:14 : player: played "IC3PEAK - Дискография (2014-2020)/Альбомы/2017 - Сладкая жизнь/2 - Грустная сука.mp3"
+Jul 24 14:16 : player: played "IC3PEAK - Дискография (2014-2020)/Альбомы/2016 - FALLAL/09 - Dreams.mp3"
+Jul 24 14:18 : player: played "IC3PEAK - Дискография (2014-2020)/Альбомы/2018 - Сказка/5 - Полчаса.mp3"
+Jul 24 14:21 : player: played "IC3PEAK - Дискография (2014-2020)/Альбомы/2018 - Сказка/4 - Красота И Сила.mp3"
+Jul 24 14:24 : player: played "IC3PEAK - Дискография (2014-2020)/Альбомы/2018 - Сказка/7 - Таблетки.mp3"
+Jul 24 14:28 : player: played "IC3PEAK - Дискография (2014-2020)/Альбомы/2020 - До Свидания/05 - У меня нет друзей.mp3"
+Jul 24 14:31 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/02 - Sun Is Shining.flac"
+Jul 24 14:34 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/02 - Sun Is Shining.wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/02 - Sun Is Shining.wav': No such file or directory
+Jul 24 14:34 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/06 - Love.flac"
+Jul 24 14:34 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/Bob Marley - The Lee Scratch Perry Master.cue/track0002"
+Jul 24 14:34 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/02 - Sun Is Shining.wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/02 - Sun Is Shining.wav': No such file or directory
+Jul 24 14:34 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/Bob Marley - The Lee Scratch Perry Master.cue/track0002"
+Jul 24 14:37 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/09 - Treat You Right.wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/09 - Treat You Right.wav': No such file or directory
+Jul 24 14:38 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/13 - Down Pressor.flac"
+Jul 24 14:38 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/Bob Marley & The Wailers - Natty Rebel.cue/track0009"
+Jul 24 14:38 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/09 - Treat You Right.wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/09 - Treat You Right.wav': No such file or directory
+Jul 24 14:38 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/18 - What Goes Around Comes Around.wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/18 - What Goes Around Comes Around.wav': No such file or directory
+Jul 24 14:38 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/Bob Marley & The Wailers - Natty Rebel.cue/track0009"
+Jul 24 14:38 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/18 - What Goes Around Comes Around.wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/18 - What Goes Around Comes Around.wav': No such file or directory
+Jul 24 14:38 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/16 - Redder Than Red (Dub).wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/16 - Redder Than Red (Dub).wav': No such file or directory
+Jul 24 14:38 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/Bob Marley & The Wailers - Natty Rebel.cue/track0018"
+Jul 24 14:38 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/16 - Redder Than Red (Dub).wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/16 - Redder Than Red (Dub).wav': No such file or directory
+Jul 24 14:38 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/Bob Marley - The Lee Scratch Perry Master.cue/track0016"
+Jul 24 14:41 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/07 - Duppy Conqueror.wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/07 - Duppy Conqueror.wav': No such file or directory
+Jul 24 14:41 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/11 - Soul Rebel.flac"
+Jul 24 14:41 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/Bob Marley - The Lee Scratch Perry Master.cue/track0007"
+Jul 24 14:41 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/07 - Duppy Conqueror.wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/07 - Duppy Conqueror.wav': No such file or directory
+Jul 24 14:41 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/Bob Marley - The Lee Scratch Perry Master.cue/track0007"
+Jul 24 14:44 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 3 Rasta Revolution/10 - 400 Years.wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 3 Rasta Revolution/10 - 400 Years.wav': No such file or directory
+Jul 24 14:44 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 3 Rasta Revolution/09 - Corner Stone.flac"
+Jul 24 14:44 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 3 Rasta Revolution/Bob Marley & The Wailers - Rasta Revolution.cue/track0010"
+Jul 24 14:44 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 3 Rasta Revolution/10 - 400 Years.wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 3 Rasta Revolution/10 - 400 Years.wav': No such file or directory
+Jul 24 14:44 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 3 Rasta Revolution/Bob Marley & The Wailers - Rasta Revolution.cue/track0010"
+Jul 24 14:46 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/01 - African Herbsman.flac"
+Jul 24 14:51 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/10 - Dance Do The Reggae.flac"
+Jul 24 14:55 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 3 Rasta Revolution/07 - Duppy Conqueror.flac"
+Jul 24 14:57 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 3 Rasta Revolution/12 - Reaction.flac"
+Jul 24 15:00 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/06 - Love.wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/06 - Love.wav': No such file or directory
+Jul 24 15:00 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 2 Soul Revolution Part II/07 - Riding High.flac"
+Jul 24 15:00 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/Bob Marley & The Wailers - Natty Rebel.cue/track0006"
+Jul 24 15:00 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/06 - Love.wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/06 - Love.wav': No such file or directory
+Jul 24 15:00 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/Bob Marley & The Wailers - Natty Rebel.cue/track0006"
+Jul 24 15:02 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/01 - African Herbsman.wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/01 - African Herbsman.wav': No such file or directory
+Jul 24 15:03 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/09 - Kaya.flac"
+Jul 24 15:03 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/Bob Marley - The Lee Scratch Perry Master.cue/track0001"
+Jul 24 15:03 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/01 - African Herbsman.wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/01 - African Herbsman.wav': No such file or directory
+Jul 24 15:03 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/Bob Marley - The Lee Scratch Perry Master.cue/track0001"
+Jul 24 15:05 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/08 - Bend Down Low (UB40 Version).wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/08 - Bend Down Low (UB40 Version).wav': No such file or directory
+Jul 24 15:06 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/11 - Keep On Moving.flac"
+Jul 24 15:06 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/Bob Marley & The Wailers - Small Axe.cue/track0008"
+Jul 24 15:06 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/08 - Bend Down Low (UB40 Version).wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/08 - Bend Down Low (UB40 Version).wav': No such file or directory
+Jul 24 15:06 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/Bob Marley & The Wailers - Small Axe.cue/track0008"
+Jul 24 15:08 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 2 Soul Revolution Part II/09 - African Herbsman.flac"
+Jul 24 15:11 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/02 - Sugar Sugar.wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/02 - Sugar Sugar.wav': No such file or directory
+Jul 24 15:11 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/10 - Put It On.flac"
+Jul 24 15:11 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/Bob Marley & The Wailers - Natty Rebel.cue/track0002"
+Jul 24 15:11 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/02 - Sugar Sugar.wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/02 - Sugar Sugar.wav': No such file or directory
+Jul 24 15:11 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/Bob Marley & The Wailers - Natty Rebel.cue/track0002"
+Jul 24 15:14 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/04 - Fussin' & Fightin'.wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/04 - Fussin' & Fightin'.wav': No such file or directory
+Jul 24 15:15 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/08 - Soul Almighty (Dub).flac"
+Jul 24 15:15 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/Bob Marley - The Lee Scratch Perry Master.cue/track0004"
+Jul 24 15:15 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/04 - Fussin' & Fightin'.wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/04 - Fussin' & Fightin'.wav': No such file or directory
+Jul 24 15:15 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/Bob Marley - The Lee Scratch Perry Master.cue/track0004"
+Jul 24 15:18 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/02 - I'm Hurting Inside.flac"
+Jul 24 15:21 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/16 - Run For Cover.flac"
+Jul 24 15:24 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/13 - Memphis.wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/13 - Memphis.wav': No such file or directory
+Jul 24 15:24 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/10 - The World Is Changing.flac"
+Jul 24 15:24 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/Bob Marley - The Lee Scratch Perry Master.cue/track0013"
+Jul 24 15:24 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/13 - Memphis.wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/13 - Memphis.wav': No such file or directory
+Jul 24 15:24 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/Bob Marley - The Lee Scratch Perry Master.cue/track0013"
+Jul 24 15:26 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/11 - Soul Rebel.wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/11 - Soul Rebel.wav': No such file or directory
+Jul 24 15:26 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/04 - Rocking Steady.flac"
+Jul 24 15:26 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/Bob Marley & The Wailers - Natty Rebel.cue/track0011"
+Jul 24 15:26 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/11 - Soul Rebel.wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/11 - Soul Rebel.wav': No such file or directory
+Jul 24 15:26 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/Bob Marley & The Wailers - Natty Rebel.cue/track0011"
+Jul 24 15:29 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/16 - Redder Than Red (Dub).flac"
+Jul 24 15:33 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/06 - Soul Rebel.flac"
+Jul 24 15:37 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/08 - Jah Is Mighty.wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/08 - Jah Is Mighty.wav': No such file or directory
+Jul 24 15:37 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/03 - Don't Rock My Boat.flac"
+Jul 24 15:37 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/Bob Marley & The Wailers - Natty Rebel.cue/track0008"
+Jul 24 15:37 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/08 - Jah Is Mighty.wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/08 - Jah Is Mighty.wav': No such file or directory
+Jul 24 15:37 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/14 - Brain Washing.wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/14 - Brain Washing.wav': No such file or directory
+Jul 24 15:37 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/Bob Marley & The Wailers - Natty Rebel.cue/track0008"
+Jul 24 15:37 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/14 - Brain Washing.wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/14 - Brain Washing.wav': No such file or directory
+Jul 24 15:37 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/Bob Marley - The Lee Scratch Perry Master.cue/track0014"
+Jul 24 15:40 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 2 Soul Revolution Part II/06 - Memphis.wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 2 Soul Revolution Part II/06 - Memphis.wav': No such file or directory
+Jul 24 15:40 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/06 - Nice Time.flac"
+Jul 24 15:40 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 2 Soul Revolution Part II/Bob Marley & The Wailers - Soul Revolution Part II.cue/track0006"
+Jul 24 15:40 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 2 Soul Revolution Part II/06 - Memphis.wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 2 Soul Revolution Part II/06 - Memphis.wav': No such file or directory
+Jul 24 15:40 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/05 - There She Goes.wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/05 - There She Goes.wav': No such file or directory
+Jul 24 15:40 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 2 Soul Revolution Part II/Bob Marley & The Wailers - Soul Revolution Part II.cue/track0006"
+Jul 24 15:40 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/05 - There She Goes.wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/05 - There She Goes.wav': No such file or directory
+Jul 24 15:40 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/Bob Marley & The Wailers - Natty Rebel.cue/track0005"
+Jul 24 15:40 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 2 Soul Revolution Part II/02 - Don't Rock My Boat.wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 2 Soul Revolution Part II/02 - Don't Rock My Boat.wav': No such file or directory
+Jul 24 15:40 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 2 Soul Revolution Part II/Bob Marley & The Wailers - Soul Revolution Part II.cue/track0002"
+Jul 24 15:44 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/12 - Thank You Lord.flac"
+Jul 24 15:47 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/14 - Stranger On The Shore.wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/14 - Stranger On The Shore.wav': No such file or directory
+Jul 24 15:47 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/07 - Duppy Conqueror.flac"
+Jul 24 15:47 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/Bob Marley & The Wailers - Small Axe.cue/track0014"
+Jul 24 15:47 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/14 - Stranger On The Shore.wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/14 - Stranger On The Shore.wav': No such file or directory
+Jul 24 15:47 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/Bob Marley & The Wailers - Small Axe.cue/track0014"
+Jul 24 15:50 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/09 - Treat You Right.flac"
+Jul 24 15:52 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/03 - Give Me A Ticket (The letter).flac"
+Jul 24 17:37 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/12 - Stand Alone.wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/12 - Stand Alone.wav': No such file or directory
+Jul 24 17:37 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/15 - Mr. Chatter Box.flac"
+Jul 24 17:37 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/Bob Marley - The Lee Scratch Perry Master.cue/track0012"
+Jul 24 17:40 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/15 - Mr. Chatter Box.flac"
+Jul 24 17:44 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 3 Rasta Revolution/07 - Duppy Conqueror.flac"
+Jul 24 17:47 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/11 - Put It On.wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/11 - Put It On.wav': No such file or directory
+Jul 24 17:48 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 3 Rasta Revolution/01 - Mr. Brown.flac"
+Jul 24 17:48 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/Bob Marley & The Wailers - Small Axe.cue/track0011"
+Jul 24 17:48 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/11 - Put It On.wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/11 - Put It On.wav': No such file or directory
+Jul 24 17:48 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/Bob Marley & The Wailers - Small Axe.cue/track0011"
+Jul 24 17:51 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/02 - Sugar Sugar.flac"
+Jul 24 17:53 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/15 - Mellow Mood.wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/15 - Mellow Mood.wav': No such file or directory
+Jul 24 17:53 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/14 - Hold On To The Feeling.flac"
+Jul 24 17:53 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/Bob Marley & The Wailers - Small Axe.cue/track0015"
+Jul 24 17:53 : exception: Failed to decode /mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/15 - Mellow Mood.wav; Failed to open '/mnt/media/music/Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/15 - Mellow Mood.wav': No such file or directory
+Jul 24 17:53 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/Bob Marley & The Wailers - Small Axe.cue/track0015"
+Jul 24 17:56 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/08 - Jah Is Mighty.flac"
+Jul 24 17:59 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 2 Soul Revolution Part II/12 - Brain Washing.flac"
+Jul 24 18:01 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 2 Soul Revolution Part II/11 - Sun Is Shining.flac"
+Jul 24 18:04 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/06 - Love.flac"
