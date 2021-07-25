@@ -42,7 +42,7 @@ export HISTFILE="${XDG_DATA_HOME:-$HOME/.local/share}/history"
 export LESSHISTFILE="$XDG_CACHE_HOME"/less/history
 
 #Set media folder
-export MEDIA=/mnt/media
+export MEDIA=/media
 export MOZ_USE_XINPUT2="1"		# Mozilla smooth scrolling/touchpads.
 
 #For backuping programm - bup

@@ -1,9 +1,8 @@
 " prettier command for coc
-command! -nargs=0 Prettier :CocCommand prettier.formatFile
+"command! -nargs=0 Prettier :CocCommand prettier.formatFile
 let g:coc_global_extensions = [
 	\ 'coc-snippets',
 	\ 'coc-pairs',
-	\ 'coc-prettier',
 	\ 'coc-tsserver',
 	\ 'coc-html'
 	\ ]
@@ -12,6 +11,7 @@ let g:coc_global_extensions = [
 "	\ 'coc-angular',
 "	\ 'coc-explorer',
 "	\ 'coc-vimtex',
+	 " \  'coc-prettier',
 "  \ 'coc-python',
 "  \ 'coc-marketplace'
 " From Coc Readme

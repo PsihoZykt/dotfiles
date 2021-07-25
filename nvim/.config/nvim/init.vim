@@ -32,7 +32,7 @@ Plug 'tpope/vim-commentary'
 "Plug 'WolfgangMehner/bash-support'
 "Plug 'dense-analysis/ale'
 "Plug 'sheerun/vim-polyglot'
-"Plug 'vim-syntastic/syntastic'
+Plug 'vim-syntastic/syntastic'
 "Plug 'Chiel92/vim-autoformat'
 ""Plug 'mvdan/sh'
 Plug 'kyazdani42/nvim-web-devicons'
@@ -44,6 +44,7 @@ Plug 'francoiscabrol/ranger.vim'
 Plug 'rbgrouleff/bclose.vim' "Requires by ranger
 
 "------------
+Plug 'universal-ctags/ctags'
 "Plug 'mhinz/vim-startify'
 "Plug 'ap/vim-css-color'
 call plug#end()

@@ -27,4 +27,6 @@ nnoremap <c-j> <c-w>j
 nnoremap <c-k> <c-w>k
 nnoremap <c-l> <c-w>l
 nnoremap <c-h> <c-w>h
+nnoremap <c-q> <c-w>q
+nnoremap <c-b> :bd<CR>
 let g:EasyMotion_smartcase = 1
