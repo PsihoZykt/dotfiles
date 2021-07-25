@@ -10,7 +10,6 @@ Plug 'easymotion/vim-easymotion'
 Plug 'nvim-lua/popup.nvim'
 Plug 'nvim-lua/plenary.nvim'
 Plug 'nvim-telescope/telescope.nvim'
-Plug 'jvgrootveld/telescope-zoxide'
 "" ------ TREE SITTER
 "Plug 'nvim-treesitter/playground'
 Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}  " We recommend updating the parsers on update
@@ -45,59 +44,19 @@ Plug 'francoiscabrol/ranger.vim'
 Plug 'rbgrouleff/bclose.vim' "Requires by ranger
 
 "------------
-Plug 'mhinz/vim-startify'
+"Plug 'mhinz/vim-startify'
 "Plug 'ap/vim-css-color'
 call plug#end()
 " General settings
-" ---------------------------------------------------------------------------
-"  There is some code in nvim/after/ftplugin, that can breaks smth, so you can
-"  look there
-let g:XkbSwitchEnabled = 1
-let g:XkbSwitchNMappings = ['us']
-
-
-
-set nocompatible
-set inccommand=nosplit
-syntax on
+set inccommand=nosplit " for :s/ command: show in real time what will be changed and how
 "------------------------
-filetype plugin on
-set autoread " reload files changed outside of Vim not currently modified in Vim (needs below)
-au FocusGained,BufEnter * :silent! !  " http://stackoverflow.com/questions/2490227/how-does-vims-autoread-work#20418591
-set ignorecase
-set cedit =\<C-Y> "By default Ctrl+F in default mode opens COmmand line which is annoying and i dont think this mode is useful at all
-set encoding=utf-8 fenc=utf-8 "fencs=iso-2022-jp,euc-jp,cp932 " use Unicode
-set noshowmode
-set visualbell " errors flash screen rather than emit beep
-set backspace=indent,eol,start " make Backspace work like Delete
 set nobackup " don't create `filename~` backups
 set noswapfile " don't create temp files
 set relativenumber number " line numbers and distances
-set numberwidth=1
 set mouse=v " Enable mouse copy\paste
 let mapleader=" "
-set scrolloff=0 " number of lines offset when jumping
-set ttyfast lazyredraw " For some reasons, vimwiki without that does strange things. When you press enter in .md file without this settings, vim goes to normal mode, then to insert mode, which is annoying
-" For text wrapping. Insert linebreak when line is too big
-set textwidth=80
-set wrapmargin=0
-"set wrap
+set wrap
 set linebreak
-" Tab key enters 2 spaces
-" To enter a TAB character when `expandtab` is in effect,
-" CTRL-v-TAB
-set expandtab tabstop=2 shiftwidth=2 softtabstop=2
-set autoindent " Indent new line the same as the preceding line
-set showmatch " highlight matching parens, braces, brackets, etc
-" Search settings (incsearch pluggin)
-" -----------------
-
-set autochdir " http://vim.wikia.com/wiki/Set_working_directory_to_the_current_file
-set hidden " open new buffers without saving current modifications (buffer remains open)
-"set wildmenu wildmode=list:longest,full " http://stackoverflow.com/questions/9511253/how-to-effectively-use-vim-wildmenu
-" StatusLine always visible, display full path
-" http://learnvimscriptthehardway.stevelosh.com/chapters/17.html
-set laststatus=2 statusline=%F
 
 " Use system clipboard
 " http://vim.wikia.com/wiki/Accessing_the_system_clipboard
@@ -133,24 +92,3 @@ nnoremap Q @@
 nnoremap s "_d
 nnoremap ss "_dd
 nnoremap S "_d$
-nnoremap <c-j> <c-w>j
-nnoremap <c-k> <c-w>k
-nnoremap <c-l> <c-w>l
-nnoremap <c-h> <c-w>h
-nnoremap <leader><F5> :UndotreeToggle<CR>
-"UNDODIR
-"-----------
-set undodir=~/.config/nvim/undodir
-if has("persistent_undo")
-   let target_path = expand('~/.config/nvim/undodir')
-
-    " create the directory and any parent directories
-    " if the location does not exist.
-    if !isdirectory(target_path)
-        call mkdir(target_path, "p", 0700)
-    endif
-
-    let &undodir=target_path
-    set undofile
-endif
-"----------------

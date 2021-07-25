@@ -1,3 +1,5 @@
+set showmatch 
+set ignorecase
 set hlsearch
 let g:incsearch#auto_nohlsearch = 1
 "map /  <Plug>(incsearch-forward)

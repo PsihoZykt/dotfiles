@@ -1,5 +1,4 @@
 local actions = require('telescope.actions')
-require'telescope'.load_extension('zoxide')
 require('telescope').setup{
   defaults = {
     vimgrep_arguments = {
