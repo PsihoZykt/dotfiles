@@ -5,7 +5,7 @@
 set -e fish_user_paths
 ### EXPORT ###
 set fish_greeting # Supresses fish's intro message
-set TERM "st-256color" # Sets the terminal type
+# set TERM "st-256color" # Sets the terminal type
 set -gx EDITOR nvim
 set -U MPD_HOST ~/.config/mpd/socket #Set socket for mpd
 set -gx PATH /home/psihoz/.config/cargo/bin $PATH

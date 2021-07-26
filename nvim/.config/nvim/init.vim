@@ -59,6 +59,7 @@ let mapleader=" "
 set wrap
 set linebreak
 set hidden
+set tabstop=2
 " Use system clipboard
 " http://vim.wikia.com/wiki/Accessing_the_system_clipboard
 set clipboard=unnamedplus
@@ -95,3 +96,5 @@ nnoremap ss "_dd
 nnoremap S "_d$
 nnoremap  <silent><tab> :bn<CR>
 nnoremap  <silent><s-tab> :bp<CR>
+
+set t_Co=256
