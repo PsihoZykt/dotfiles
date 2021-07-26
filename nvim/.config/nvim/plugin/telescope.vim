@@ -2,7 +2,7 @@ lua require("psihoz")
 nnoremap <leader>fd :lua require('psihoz.telescope').search_dotfiles()<CR>
 nnoremap <leader>fh :lua require('psihoz.telescope').search_home()<CR>
 nnoremap <leader>ff :lua require('telescope.builtin').find_files()<CR>
-nnoremap <leader>fb :lua require('telescope.builtin').buffers()<CR>
+nnoremap <leader><tab> :lua require('telescope.builtin').buffers()<CR>
 nnoremap <leader>fo :lua require('telescope.builtin').oldfiles()<CR>
 nnoremap <leader>fm :lua require('telescope.builtin').marks()<CR>
 nnoremap <leader>fg :lua require('telescope.builtin').git_files()<CR>

@@ -1,20 +1,4 @@
 " prettier command for coc
-"command! -nargs=0 Prettier :CocCommand prettier.formatFile
-let g:coc_global_extensions = [
-	\ 'coc-snippets',
-	\ 'coc-pairs',
-	\ 'coc-tsserver',
-	\ 'coc-html'
-	\ ]
-"	\ 'coc-css',
-"	\ 'coc-json',
-"	\ 'coc-angular',
-"	\ 'coc-explorer',
-"	\ 'coc-vimtex',
-	 " \  'coc-prettier',
-"  \ 'coc-python',
-"  \ 'coc-marketplace'
-" From Coc Readme
 set updatetime=300
 
 " Some servers have issues with backup files, see #649
@@ -104,7 +88,8 @@ command! -nargs=0 Format :call CocAction('format')
 command! -nargs=? Fold :call     CocAction('fold', <f-args>)
 
 " use `:OR` for organize import of current buffer
-command! -nargs=0 OR   :call     CocAction('runCommand', 'editor.action.organizeImport')
+command! -nargs=0 OR   :call CocAction('runCommand', 'editor.action.organizeImport')
+" command! -nargs=0 OR   :call CocAction('runCommand', 'eslint.executeAutofix')
 
 " Add status line support, for integration with other plugin, checkout `:h coc-status`
 set statusline^=%{coc#status()}%{get(b:,'coc_current_function','')}

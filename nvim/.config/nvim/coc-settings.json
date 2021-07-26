@@ -7,5 +7,20 @@
 		"\"",
 		"`"
 	],
-	"suggest.noselect": false
+	"suggest.noselect": false,
+	"refactor.saveToFile": true,
+	"react-refactor.produceClass": false,
+	"eslint.autoFixOnSave": true,
+	"tsserver.log": "verbose",
+	"coc.preferences.formatOnSaveFiletypes": [
+		"css",
+		"typescriptreact",
+		"markdown",
+		"javascript",
+		"graphql",
+		"html",
+		"yaml",
+		"json",
+		"python"
+	]
 }

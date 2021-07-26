@@ -32,7 +32,7 @@ Plug 'tpope/vim-commentary'
 "Plug 'WolfgangMehner/bash-support'
 "Plug 'dense-analysis/ale'
 "Plug 'sheerun/vim-polyglot'
-Plug 'vim-syntastic/syntastic'
+"Plug 'vim-syntastic/syntastic'
 "Plug 'Chiel92/vim-autoformat'
 ""Plug 'mvdan/sh'
 Plug 'kyazdani42/nvim-web-devicons'
@@ -58,7 +58,7 @@ set mouse=v " Enable mouse copy\paste
 let mapleader=" "
 set wrap
 set linebreak
-
+set hidden
 " Use system clipboard
 " http://vim.wikia.com/wiki/Accessing_the_system_clipboard
 set clipboard=unnamedplus
@@ -88,8 +88,10 @@ set termguicolors
 hi Normal guibg=NONE ctermbg=NONE
 " ---------------------------------------------------------------------------
 "Fx for alacritty, when command "alacritty -e nvim -c <PlugCommand> doesn't work properly, so it kinda helps to fix this
-autocmd VimEnter * silent exec "!kill -s SIGWINCH" getpid()
+"autocmd VimEnter * silent exec "!kill -s SIGWINCH" getpid()
 nnoremap Q @@
 nnoremap s "_d
 nnoremap ss "_dd
 nnoremap S "_d$
+nnoremap  <silent><tab> :bn<CR>
+nnoremap  <silent><s-tab> :bp<CR>
