@@ -11,7 +11,7 @@
 	"refactor.saveToFile": true,
 	"react-refactor.produceClass": false,
 	"eslint.autoFixOnSave": true,
-	"tsserver.log": "verbose",
+	"tsserver.log": "terse",
 	"coc.preferences.formatOnSaveFiletypes": [
 		"css",
 		"typescriptreact",
