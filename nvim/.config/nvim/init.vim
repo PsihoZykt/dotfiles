@@ -54,7 +54,7 @@ set inccommand=nosplit " for :s/ command: show in real time what will be changed
 set nobackup " don't create `filename~` backups
 set noswapfile " don't create temp files
 set relativenumber number " line numbers and distances
-set mouse=v " Enable mouse copy\paste
+set mouse=a " Enable mouse copy\paste
 let mapleader=" "
 set wrap
 set linebreak
