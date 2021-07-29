@@ -10,7 +10,9 @@ mpd &			# music player daemon-you might prefer it as a service though
 picom & # Compositor for tranparancy and animations, requires picom-jonaburg, and picom.conf. A little bit laggy
 dunst &			# dunst for notifications
 xset r rate 190 45 &	# Speed xrate up
+xset r 108
 remaps
+
 unclutter &		# Remove mouse when idle
 #stylish # set the background with custom styli.sh script. The problem is, it's uses internet and it's can't fetch image in first few seconds after OS booted up
 

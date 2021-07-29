@@ -60,6 +60,8 @@ set wrap
 set linebreak
 set hidden
 set tabstop=2
+set scrolloff=8
+
 " Use system clipboard
 " http://vim.wikia.com/wiki/Accessing_the_system_clipboard
 set clipboard=unnamedplus
@@ -96,5 +98,6 @@ nnoremap ss "_dd
 nnoremap S "_d$
 nnoremap  <silent><tab> :bn<CR>
 nnoremap  <silent><s-tab> :bp<CR>
-
+"React map: Change [=>  (JSX) ] without return,  to [=> { return (JSX) } ]
+nnoremap <leader>ret :norm ysa({f{f(ireturn<CR><esc>bi<CR><CR><esc>ki
 set t_Co=256
