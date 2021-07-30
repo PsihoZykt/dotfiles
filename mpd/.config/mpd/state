@@ -1,10 +1,10 @@
 sw_volume: 62
 audio_device_state:1:pulse
 audio_device_state:1:Visualizer feed
-state: pause
-current: 82
-time: 307.278000
-random: 1
+state: play
+current: 27
+time: 1.070000
+random: 0
 repeat: 0
 single: 0
 consume: 0
@@ -12,105 +12,51 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:101 Classics/CD1 - The Great Waltzes/01. Johann Strauss Jr - An der schonon blauen Donau, Op. 314.mp3
-1:101 Classics/CD1 - The Great Waltzes/02. Johann Strauss Jr - Emperor Waltz, Op. 437.mp3
-2:101 Classics/CD1 - The Great Waltzes/03. Ivanovici - Donauwellen.mp3
-3:101 Classics/CD1 - The Great Waltzes/04. Franz Lehar - Gold and Silver, Op. 79.mp3
-4:101 Classics/CD1 - The Great Waltzes/05. Peter Ilyich Tchaikovsky - Waltz from Serenade for Strings in C Major, Op. 48.mp3
-5:101 Classics/CD1 - The Great Waltzes/06. Emile Waldteufel - The Skaters, Op. 183.mp3
-6:101 Classics/CD1 - The Great Waltzes/07. Rosas - Uber den Wellen (Sobre las olas).mp3
-7:101 Classics/CD1 - The Great Waltzes/08. Johann Strauss Jr - Rosen aus dem Suden.mp3
-8:101 Classics/CD1 - The Great Waltzes/09. Peter Ilyich Tchaikovsky - Waltz of the Flowers from The Nutcracker, Op. 71.mp3
-9:101 Classics/CD1 - The Great Waltzes/10. Peter Ilyich Tchaikovsky - Waltz from The Sleeping Beauty, Op. 66.mp3
-10:101 Classics/CD2 - The Romantic Piano/01. Tchaikovsky - Piano Concerto No. 1 in B Flat Minor, Op. 23 - opening.mp3
-11:101 Classics/CD2 - The Romantic Piano/02. Schubert - Impromptu in A Flat Major, Op. 142.mp3
-12:101 Classics/CD2 - The Romantic Piano/03. Chopin - Piano Concerto No. 1 in E Minor, Op. 11.mp3
-13:101 Classics/CD2 - The Romantic Piano/04. Beethoven - Bagatelle in A Minor, WoO 59, 'Fur Elise'.mp3
-14:101 Classics/CD2 - The Romantic Piano/05. Brahms - Waltz in A Flat Major, Op. 39, No. 15.mp3
-15:101 Classics/CD2 - The Romantic Piano/06. Grieg - Piano Concerto in A Minor Op. 16 - Adagio.mp3
-16:101 Classics/CD2 - The Romantic Piano/07. Mendelssohn - Spring Song in A Major, Op. 62, No. 6.mp3
-17:101 Classics/CD2 - The Romantic Piano/08. Debussy - Clair de lune from Suite Bergamasque.mp3
-18:101 Classics/CD2 - The Romantic Piano/09. Satie - Troisieme Gymnopdie.mp3
-19:101 Classics/CD2 - The Romantic Piano/10. Chopin - Prelude No. 15 in D Flat Major, Op. 28 'Raindrop'.mp3
-20:101 Classics/CD2 - The Romantic Piano/11. Liszt - Liebestraum No. 3 in A Flat Major, Op. 62, No. 3.mp3
-21:101 Classics/CD2 - The Romantic Piano/12. Mozart - Alla turca from Piano Sonata No. 11 in A Major K. 331.mp3
-22:101 Classics/CD2 - The Romantic Piano/13. Schumann - Piano Concerto in A Minor, Op. 54 - Allegro affettuoso.mp3
-23:101 Classics/CD3 - Mighty Choruses/01. Orff - O Fortuna from Carmina Burana.mp3
-24:101 Classics/CD3 - Mighty Choruses/02. J.S. Bach - Jauchzet, frohlocket from Christmas Oratorio.mp3
-25:101 Classics/CD3 - Mighty Choruses/03. Handel - Hallelujah, from The Messiah.mp3
-26:101 Classics/CD3 - Mighty Choruses/04. J.S. Bach - Osanna in excelsis from Mass in B Minor.mp3
-27:101 Classics/CD3 - Mighty Choruses/05. Handel - For unto us a Child is Born, from The Messiah.mp3
-28:101 Classics/CD3 - Mighty Choruses/06. J.S. Bach - Jesu bleibet meine Freude from Herz und Mund und Tat und Leben.mp3
-29:101 Classics/CD3 - Mighty Choruses/07. Allegri - Miserere mei.mp3
-30:101 Classics/CD3 - Mighty Choruses/08. J.S. Bach - Wir setzen uns mit Tranen nieder from St Matthew Passion.mp3
-31:101 Classics/CD3 - Mighty Choruses/09. Mozart - Lacrymosa dies illa from Requiem.mp3
-32:101 Classics/CD3 - Mighty Choruses/10. Wagner - Pilgrims Chorus from Tannhauzer.mp3
-33:101 Classics/CD3 - Mighty Choruses/11. Mozart - Ave verum corpus, K.618.mp3
-34:101 Classics/CD3 - Mighty Choruses/12. Wagner - Wedding Chorus from Lohengrin.mp3
-35:101 Classics/CD3 - Mighty Choruses/13. Verdi - Chorus of the Hebrew Slaves from Nabucco.mp3
-36:101 Classics/CD4 - Adagio - Music for relaxing/01. Albinoni - Adagio in G Minor.mp3
-37:101 Classics/CD4 - Adagio - Music for relaxing/02. J.S. Bach - Violin Concerto in E Major, BWV 1042 - Adagio.mp3
-38:101 Classics/CD4 - Adagio - Music for relaxing/03. Telemann - Trumpet Concerto in D Major - Adagio.mp3
-39:101 Classics/CD4 - Adagio - Music for relaxing/04. Albinoni - Oboe Concerto in D Minor, Op.9, No.2 - Adagio.mp3
-40:101 Classics/CD4 - Adagio - Music for relaxing/05. Mozart - Piano Concerto No.23 in A Major, K.488 - Adagio.mp3
-41:101 Classics/CD4 - Adagio - Music for relaxing/06. A. Marcello - Oboe Concerto in D Minor - Adagio.mp3
-42:101 Classics/CD4 - Adagio - Music for relaxing/07. Mozart - Oboe Quartet in F Major, K.370 - Adagio.mp3
-43:101 Classics/CD4 - Adagio - Music for relaxing/08. Bruch - Violin Concerto No.1 in G Minor, Op.26 - Adagio.mp3
-44:101 Classics/CD4 - Adagio - Music for relaxing/09. Mozart - Clarinet Concerto in A Major, K.622 - Adagio.mp3
-45:101 Classics/CD4 - Adagio - Music for relaxing/10. Rodrigo - Concierto de Aranjuez - Adagio.mp3
-46:101 Classics/CD4 - Adagio - Music for relaxing/11. Mozart - Violin Concerto No.3 in G Major, K.216 - Adagio.mp3
-47:101 Classics/CD5 - Largo - Music for reading/01. Handel - Largo from Serse.mp3
-48:101 Classics/CD5 - Largo - Music for reading/02. J.S. Bach - Piano Concerto in F Minor - Largo.mp3
-49:101 Classics/CD5 - Largo - Music for reading/03. Handel - Concerto Grosso in A Minor Op.6, No.4 - Largo, e Piano.mp3
-50:101 Classics/CD5 - Largo - Music for reading/04. Vivaldi - Guitar Concerto in D Major, RV 93 - Largo.mp3
-51:101 Classics/CD5 - Largo - Music for reading/05. Corelli - Concerto Grosso in C Minor, Op.6, No.3 - Largo.mp3
-52:101 Classics/CD5 - Largo - Music for reading/06. J.S. Bach - Double Concerto in D Minor, BWV 1043 - Largo.mp3
-53:101 Classics/CD5 - Largo - Music for reading/07. Vivaldi - Flautino Concerto in C Major, RV 443 - Largo.mp3
-54:101 Classics/CD5 - Largo - Music for reading/08. Handel - Oboe Concerto No.3 in G Minor, H.287 - Sarabande.mp3
-55:101 Classics/CD5 - Largo - Music for reading/09. Vivaldi - Concerto for Oboe & Vioin in B Flat Major, RV 548.mp3
-56:101 Classics/CD5 - Largo - Music for reading/10. Dvorak - Symphony No.9 From the New World - Largo.mp3
-57:101 Classics/CD5 - Largo - Music for reading/11. Vivaldi - The Four Seasons - Winter - Largo.mp3
-58:101 Classics/CD5 - Largo - Music for reading/12. Chopin - Piano Concerto No.2 in F Minor Op.21 - Larghetto.mp3
-59:101 Classics/CD6 - Opera Highlights/01. Bizet - Prelude to Act 1 of Carmen.mp3
-60:101 Classics/CD6 - Opera Highlights/02. Puccini - O mio babbino caro from Gianni Schicchi.mp3
-61:101 Classics/CD6 - Opera Highlights/03. Bizet - Votre Toast (Toreador Song) from Carmen.mp3
-62:101 Classics/CD6 - Opera Highlights/04. Mascagni - Intermezzo from Cavalleria Rusticana.mp3
-63:101 Classics/CD6 - Opera Highlights/05. Mozart - Der Holle Rache (Aria of the Queen of the Night) from Die Zauberflore.mp3
-64:101 Classics/CD6 - Opera Highlights/06. Verdi - Libiamo ne`lieti calici (Drinking Song) from La Traviata.mp3
-65:101 Classics/CD6 - Opera Highlights/07. Puccini - Nessun dorma from Turandot.mp3
-66:101 Classics/CD6 - Opera Highlights/08. Puccini - E lucevan le stelle from Tosca.mp3
-67:101 Classics/CD6 - Opera Highlights/09. Handel - Lascia chi`o pianga from Rinaldo.mp3
-68:101 Classics/CD6 - Opera Highlights/10. Mozart - Uvertyr to The Marriage of Figaro.mp3
-69:101 Classics/CD6 - Opera Highlights/11. Puccini - Un bel di vedremo from Madame Butterfly.mp3
-70:101 Classics/CD6 - Opera Highlights/12. Bizet - Au fond du temple saint (Duet) from The Pearl Fishers.mp3
-71:101 Classics/CD6 - Opera Highlights/13. Rossini - Factorum aria from Barber of Seville.mp3
-72:101 Classics/CD6 - Opera Highlights/14. Verdi - Triumphal March and Chorus from Aida, Gloria all`Egitto.mp3
-73:101 Classics/CD6 - Opera Highlights/15. Verdi - La donna e mobile from Rigoletto.mp3
-74:101 Classics/CD6 - Opera Highlights/16. Puccini - Si, mi chiamano Mimi from La Boheme.mp3
-75:101 Classics/CD7 - Mostly Baroque/01. Handel - Arrival of the Queen of Sheba.mp3
-76:101 Classics/CD7 - Mostly Baroque/02. J.S. Bach - Air from Suite No.3.mp3
-77:101 Classics/CD7 - Mostly Baroque/03. J.S. Bach - Badinerie from Suite No.2.mp3
-78:101 Classics/CD7 - Mostly Baroque/04. Vivaldi - The Four Seasons - Spring.mp3
-79:101 Classics/CD7 - Mostly Baroque/05. Handel - La Rejouissance from Royal Fireworks Music.mp3
-80:101 Classics/CD7 - Mostly Baroque/06. J.S. Bach - Toccata from Toccata and Fugue in D Minor.mp3
-81:101 Classics/CD7 - Mostly Baroque/07. Haydn - Finale from Trumpet Concerto in E Flat Minor.mp3
-82:101 Classics/CD7 - Mostly Baroque/08. Mozart - Andante from Piano Concerto No.21 in C Major 'Elvira Madigan'.mp3
-83:101 Classics/CD7 - Mostly Baroque/09. Beethoven - First movement from Symphony No.5.mp3
-84:101 Classics/CD7 - Mostly Baroque/10. Mozart - Eine kleine Nachtmusik - Allegro.mp3
-85:101 Classics/CD7 - Mostly Baroque/11. Gluck - Dance of the Blessed Spirits from Orpheus and Eurydice.mp3
-86:101 Classics/CD7 - Mostly Baroque/12. Pachelbel - Canon.mp3
-87:101 Classics/CD7 - Mostly Baroque/13. Beethoven - Violin Romance No.2.mp3
-88:101 Classics/CD8 - Mostly Romance/01. Grieg - Morning from Peer Gynt.mp3
-89:101 Classics/CD8 - Mostly Romance/02. Schubert - Ave Maria (arr. Breiner).mp3
-90:101 Classics/CD8 - Mostly Romance/03. Mozart - Eine kleine Nachtmusik - Romance.mp3
-91:101 Classics/CD8 - Mostly Romance/04. Boccherini - Minuet.mp3
-92:101 Classics/CD8 - Mostly Romance/05. Godard - Berceuse.mp3
-93:101 Classics/CD8 - Mostly Romance/06. Brahms - Hungarian Dance No.5.mp3
-94:101 Classics/CD8 - Mostly Romance/07. R. Strauss - Also sprach Zarathusta.mp3
-95:101 Classics/CD8 - Mostly Romance/08. Elgar - March Pomp and Circumstance No.1.mp3
-96:101 Classics/CD8 - Mostly Romance/09. Grieg - Wedding Day at Troldhaugen.mp3
-97:101 Classics/CD8 - Mostly Romance/10. Schubert - Marche Militaire Nr.1 (arr. P. Breiner).mp3
-98:101 Classics/CD8 - Mostly Romance/11. Grieg - In the Hall of the Mountain King.mp3
-99:101 Classics/CD8 - Mostly Romance/12. Grieg - The Last Spring.mp3
-100:101 Classics/CD8 - Mostly Romance/13. Smetana - Moldau from My Homeland.mp3
+0:IC3PEAK - Дискография (2014-2020)/EP и синглы/2016 - Kawaii _ Warrior/1 - Kawaii _ Warrior.mp3
+1:IC3PEAK - Дискография (2014-2020)/EP и синглы/2016 - Really Really/1 - Really Really.mp3
+2:IC3PEAK - Дискография (2014-2020)/EP и синглы/2016 - Really Really/2 - Really Really.mp3
+3:IC3PEAK - Дискография (2014-2020)/EP и синглы/2017 - KTO/1 - КТО.mp3
+4:IC3PEAK - Дискография (2014-2020)/EP и синглы/2017 - Monster/1 - Monster.mp3
+5:IC3PEAK - Дискография (2014-2020)/EP и синглы/2018 - This World Is Sick/1 - This World Is Sick.mp3
+6:IC3PEAK - Дискография (2014-2020)/EP и синглы/2018 - Сказка/1 - Сказка.mp3
+7:IC3PEAK - Дискография (2014-2020)/Альбомы/2016 - FALLAL/01 - Go With The Flow.mp3
+8:IC3PEAK - Дискография (2014-2020)/Альбомы/2016 - FALLAL/02 - Little Bit Here.mp3
+9:IC3PEAK - Дискография (2014-2020)/Альбомы/2016 - FALLAL/03 - I Swear.mp3
+10:IC3PEAK - Дискография (2014-2020)/Альбомы/2016 - FALLAL/04 - BBU.mp3
+11:IC3PEAK - Дискография (2014-2020)/Альбомы/2016 - FALLAL/05 - Try To Be Real.mp3
+12:IC3PEAK - Дискография (2014-2020)/Альбомы/2016 - FALLAL/06 - So Safe.mp3
+13:IC3PEAK - Дискография (2014-2020)/Альбомы/2016 - FALLAL/07 - You Think I'm Weak.mp3
+14:IC3PEAK - Дискография (2014-2020)/Альбомы/2016 - FALLAL/08 - Touch Me.mp3
+15:IC3PEAK - Дискография (2014-2020)/Альбомы/2016 - FALLAL/09 - Dreams.mp3
+16:IC3PEAK - Дискография (2014-2020)/Альбомы/2016 - FALLAL/10 - I'm Not Afraid.mp3
+17:IC3PEAK - Дискография (2014-2020)/Альбомы/2016 - FALLAL/11 - Outro (I Let You Go).mp3
+18:IC3PEAK - Дискография (2014-2020)/Альбомы/2017 - Сладкая жизнь/1 - Грезы.mp3
+19:IC3PEAK - Дискография (2014-2020)/Альбомы/2017 - Сладкая жизнь/2 - Грустная сука.mp3
+20:IC3PEAK - Дискография (2014-2020)/Альбомы/2017 - Сладкая жизнь/3 - Пламя.mp3
+21:IC3PEAK - Дискография (2014-2020)/Альбомы/2017 - Сладкая жизнь/4 - Зеркало.mp3
+22:IC3PEAK - Дискография (2014-2020)/Альбомы/2017 - Сладкая жизнь/5 - Pain.mp3
+23:IC3PEAK - Дискография (2014-2020)/Альбомы/2017 - Сладкая жизнь/6 - Разобьюсь.mp3
+24:IC3PEAK - Дискография (2014-2020)/Альбомы/2017 - Сладкая жизнь/7 - Малыш.mp3
+25:IC3PEAK - Дискография (2014-2020)/Альбомы/2017 - Сладкая жизнь/8 - Яд.mp3
+26:IC3PEAK - Дискография (2014-2020)/Альбомы/2017 - Сладкая жизнь/9 - Вечная жизнь.mp3
+27:IC3PEAK - Дискография (2014-2020)/Альбомы/2018 - Сказка/1 - Считалочка.mp3
+28:IC3PEAK - Дискография (2014-2020)/Альбомы/2018 - Сказка/2 - Сказка.mp3
+29:IC3PEAK - Дискография (2014-2020)/Альбомы/2018 - Сказка/3 - Привет.mp3
+30:IC3PEAK - Дискография (2014-2020)/Альбомы/2018 - Сказка/4 - Красота И Сила.mp3
+31:IC3PEAK - Дискография (2014-2020)/Альбомы/2018 - Сказка/5 - Полчаса.mp3
+32:IC3PEAK - Дискография (2014-2020)/Альбомы/2018 - Сказка/6 - Смерти Больше Нет.mp3
+33:IC3PEAK - Дискография (2014-2020)/Альбомы/2018 - Сказка/7 - Таблетки.mp3
+34:IC3PEAK - Дискография (2014-2020)/Альбомы/2018 - Сказка/8 - Слезы.mp3
+35:IC3PEAK - Дискография (2014-2020)/Альбомы/2020 - До Свидания/01 - Мертвая Луна.mp3
+36:IC3PEAK - Дискография (2014-2020)/Альбомы/2020 - До Свидания/02 - Я целую твой труп.mp3
+37:IC3PEAK - Дискография (2014-2020)/Альбомы/2020 - До Свидания/03 - Интерлюдия.mp3
+38:IC3PEAK - Дискография (2014-2020)/Альбомы/2020 - До Свидания/04 - Все равно.mp3
+39:IC3PEAK - Дискография (2014-2020)/Альбомы/2020 - До Свидания/05 - У меня нет друзей.mp3
+40:IC3PEAK - Дискография (2014-2020)/Альбомы/2020 - До Свидания/06 - Плак-Плак.mp3
+41:IC3PEAK - Дискография (2014-2020)/Альбомы/2020 - До Свидания/07 - мкАД.mp3
+42:IC3PEAK - Дискография (2014-2020)/Альбомы/2020 - До Свидания/08 - Яма.mp3
+43:IC3PEAK - Дискография (2014-2020)/Альбомы/2020 - До Свидания/09 - TRRST.mp3
+44:IC3PEAK - Дискография (2014-2020)/Альбомы/2020 - До Свидания/10 - Марш.mp3
+45:IC3PEAK - Дискография (2014-2020)/Альбомы/2020 - До Свидания/11 - Весело и грустно.mp3
+46:IC3PEAK - Дискография (2014-2020)/Альбомы/2020 - До Свидания/12 - Еще.mp3
 playlist_end
