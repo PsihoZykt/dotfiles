@@ -1,0 +1,8 @@
+configuration {
+	width: 900;
+  lines: 7;
+	font: "CaskaydiaCove Nerd Font Mono 13";
+	show-icons: true;
+	hide-scrollbar: true;
+	show-match: false;
+}

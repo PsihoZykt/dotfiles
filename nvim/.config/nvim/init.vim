@@ -46,7 +46,7 @@ Plug 'rbgrouleff/bclose.vim' "Requires by ranger
 "------------
 Plug 'universal-ctags/ctags'
 "Plug 'mhinz/vim-startify'
-"Plug 'ap/vim-css-color'
+Plug 'ap/vim-css-color'
 call plug#end()
 " General settings
 set inccommand=nosplit " for :s/ command: show in real time what will be changed and how

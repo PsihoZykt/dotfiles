@@ -1,10 +1,14 @@
-/*Dracula theme based on the Purple official rofi theme*/
-
+/* ================================================
+// theme name : merah
+// by : ipang-dwi - www.firstplato.com
+// based on the Purple official rofi theme
+// ================================================ */
 
 * {
+    font: "Ubuntu Mono Reguler 11";
     foreground: #f8f8f2;
     background-color: #282a36;
-    active-background: #4c3f64;
+    active-background: #b00000;
     urgent-background: #ff5555;
     selected-background: @active-background;
     selected-urgent-background: @urgent-background;
@@ -48,7 +52,7 @@
     background-color: @background;
     text-color:       @foreground;
 }
-#element.normal.urgent {
+#lement.normal.urgent {
     background-color: @urgent-background;
     text-color:       @urgent-foreground;
 }
@@ -95,7 +99,7 @@
     text-color:       @foreground;
 }
 #inputbar {
-    spacing:   0;
+    spacing:    0;
     text-color: @foreground;
     padding:    1px ;
 }
@@ -120,4 +124,3 @@
     margin:     0px 0.3em 0em 0em ;
     text-color: @foreground;
 }
- 
