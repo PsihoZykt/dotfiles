@@ -3,6 +3,7 @@
 # your path gets massive and fish becomes very slow.
 #set -x SHELL /bin/bash
 set -e fish_user_paths
+set -e _JAVA_OPTIONS
 ### EXPORT ###
 set fish_greeting # Supresses fish's intro message
 # set TERM "st-256color" # Sets the terminal type

@@ -28,7 +28,7 @@ export NETRC="${XDG_CONFIG_HOME:-$HOME/.config}/netrc"
 export NPM_CONFIG_USERCONFIG=$XDG_CONFIG_HOME/npm/npmrc
 export CARGO_HOME="$XDG_CONFIG_HOME"/cargo
 export MOZ_LEGACY_HOME="$XDG_CONFIG_HOME"/mozilla
-export _JAVA_OPTIONS=-Djava.util.prefs.userRoot="$XDG_CONFIG_HOME"/java
+# export _JAVA_OPTIONS=-Djava.util.prefs.userRoot="$XDG_CONFIG_HOME"/java
 # Other program settings:
 export SUDO_ASKPASS="$HOME/.local/bin/dmenupass"
 
