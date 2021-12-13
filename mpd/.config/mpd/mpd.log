@@ -16712,3 +16712,5 @@ Dec 13 15:17 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD
 Dec 13 15:21 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 3 Rasta Revolution/01 - Mr. Brown.flac"
 Dec 13 15:24 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 3 Rasta Revolution/02 - Soul Rebel.flac"
 Dec 13 15:27 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 3 Rasta Revolution/03 - Try Me.flac"
+Dec 13 20:50 : output: Failed to play on "pulse" (pulse): suspended
+Dec 13 20:52 : player: played "Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 3 Rasta Revolution/04 - It's Alright.flac"
