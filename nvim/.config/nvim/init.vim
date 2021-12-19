@@ -47,6 +47,9 @@ Plug 'rbgrouleff/bclose.vim' "Requires by ranger
 Plug 'universal-ctags/ctags'
 "Plug 'mhinz/vim-startify'
 Plug 'ap/vim-css-color'
+"Latex plugin
+Plug 'lervag/vimtex'
+Plug 'xuhdev/vim-latex-live-preview'
 call plug#end()
 " General settings
 set inccommand=nosplit " for :s/ command: show in real time what will be changed and how
@@ -101,3 +104,5 @@ nnoremap  <silent><s-tab> :bp<CR>
 "React map: Change [=>  (JSX) ] without return,  to [=> { return (JSX) } ]
 nnoremap <leader>ret :norm ysa({f{f(ireturn<CR><esc>bi<CR><CR><esc>ki
 set t_Co=256
+"Tex testing, remove is isn't neccesary
+let g:livepreview_previewer = 'zathura'
