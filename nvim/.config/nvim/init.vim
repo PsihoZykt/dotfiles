@@ -50,6 +50,13 @@ Plug 'ap/vim-css-color'
 "Latex plugin
 Plug 'lervag/vimtex'
 Plug 'xuhdev/vim-latex-live-preview'
+
+" Track the engine.
+Plug 'SirVer/ultisnips'
+
+" Snippets are separated from the engine. Add this if you want them:
+Plug 'honza/vim-snippets'
+
 call plug#end()
 " General settings
 set inccommand=nosplit " for :s/ command: show in real time what will be changed and how
