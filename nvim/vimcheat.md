@@ -186,6 +186,7 @@ Tip Instead of b or B one can also use ( or { respectively.
     :%s/old/new/g - replace all old with new throughout file
     :%s/old/new/gc - replace all old with new throughout file with confirmations
     :noh[lsearch] - remove highlighting of search matches
+		ctrl+o - go back where you was before searching
 
 
 #Diff
@@ -206,6 +207,25 @@ Tip Instead of b or B one can also use ( or { respectively.
     :dif[fupdate] - update differences
     :diffo[ff] - switch off diff mode for current window
 
+# Other
+##vim help pages
+
+ctrl+] - follow link
+ctrl+o - go back where you was before following 
+
 Tip The commands for folding (e.g. za) operate on one level. To operate on all levels, use uppercase letters (e.g. zA).
 Tip To view the differences of files, one can directly start Vim in diff mode by running vimdiff in a terminal. One can even set this as git difftool.
-i
+
+#Plugins 
+
+## Easy motion
+<leader><leader>w(W) - forwart begining word motion in the entire page (current line)
+<leader><leader>b(B) - backward beginning of word. (B includes special symbols like "-")
+<leader><leader>e(E) - end of word forward.
+<leader><leader>ge(gE) - end of word backward
+<leader>j(k) - line downward\upward
+<leader><leader>f(F) - find letter motion (f for to the right searching, F for to the left searching ). <leader><leader>fo - all 'o' are highlightedA
+<leader><leader>t(T) - find letter and put cursor before(After) this letter in string
+<leader><leader> n(N) - jumn to latest '/' or '?' forward(backward)
+<leader><leader>s searching
+
