@@ -1,18 +1,10 @@
-# spark aliases
-alias clear='/bin/clear; echo; echo; seq 1 (tput cols) | sort -R | spark | lolcat; echo; echo'
-
 # navigation
 alias ..='cd ..'
 alias ...='cd ../..'
-alias .3='cd ../../..'
-alias .4='cd ../../../..'
-alias .5='cd ../../../../..'
 
 
 # vim and emacs
 alias vim='nvim'
-#XDG compability
-alias yarn='yarn --use-yarnrc "$XDG_CONFIG_HOME/yarn/config/"'
 
 
 ## RUST REPLACEMENTS ##
