@@ -17,8 +17,10 @@ function fish_user_key_bindings
   # fish_default_key_bindings
  fish_vi_key_bindings
 end
-
-
+# Add mcfly shell history (ctrl+r in terminal to use) 
+# https://github.com/cantino/mcfly
+mcfly init fish | source
+set -gx MCFLY_KEY_SCHEME vim #To enable vim keybindings in mcfly (default is emacs)
 ### FUNCTIONS ###
 # Functions needed for !! and !$
 function __history_previous_command
