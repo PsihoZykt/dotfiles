@@ -1,9 +1,9 @@
-sw_volume: 81
+sw_volume: 100
 audio_device_state:1:pulse
 audio_device_state:1:Visualizer feed
 state: pause
-current: 56
-time: 172.844000
+current: 118
+time: 304.240000
 random: 0
 repeat: 0
 single: 0
@@ -177,4 +177,82 @@ playlist_begin
 162:Порнофильмы - Дискография/2020 - Это пройдёт/05. Звёздочка.mp3
 163:Порнофильмы - Дискография/2020 - Это пройдёт/06. Доброе сердце.mp3
 164:Порнофильмы - Дискография/2020 - Это пройдёт/07. Уроки любви.mp3
+165:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/01 - Nice Time.flac
+166:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/02 - Sugar Sugar.flac
+167:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/03 - Give Me A Ticket (The letter).flac
+168:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/04 - Rocking Steady.flac
+169:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/05 - There She Goes.flac
+170:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/06 - Love.flac
+171:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/07 - Brand New Second Hand.flac
+172:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/08 - Jah Is Mighty.flac
+173:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/09 - Treat You Right.flac
+174:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/10 - The World Is Changing.flac
+175:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/11 - Soul Rebel.flac
+176:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/12 - Love Light.flac
+177:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/13 - Down Pressor.flac
+178:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/14 - Hold On To The Feeling.flac
+179:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/15 - Mr. Chatter Box.flac
+180:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/16 - Run For Cover.flac
+181:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/17 - Long Long Winter.flac
+182:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 1 Natty Rebel/18 - What Goes Around Comes Around.flac
+183:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 2 Soul Revolution Part II/01 - Keep On Moving.flac
+184:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 2 Soul Revolution Part II/02 - Don't Rock My Boat.flac
+185:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 2 Soul Revolution Part II/03 - Put It On.flac
+186:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 2 Soul Revolution Part II/04 - Fussing And Fighting.flac
+187:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 2 Soul Revolution Part II/05 - Duppy Conqueror.flac
+188:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 2 Soul Revolution Part II/06 - Memphis.flac
+189:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 2 Soul Revolution Part II/07 - Riding High.flac
+190:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 2 Soul Revolution Part II/08 - Kaya.flac
+191:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 2 Soul Revolution Part II/09 - African Herbsman.flac
+192:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 2 Soul Revolution Part II/10 - Stand Alone.flac
+193:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 2 Soul Revolution Part II/11 - Sun Is Shining.flac
+194:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 2 Soul Revolution Part II/12 - Brain Washing.flac
+195:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 3 Rasta Revolution/01 - Mr. Brown.flac
+196:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 3 Rasta Revolution/02 - Soul Rebel.flac
+197:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 3 Rasta Revolution/03 - Try Me.flac
+198:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 3 Rasta Revolution/04 - It's Alright.flac
+199:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 3 Rasta Revolution/05 - No Sympathy.flac
+200:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 3 Rasta Revolution/06 - My Cup.flac
+201:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 3 Rasta Revolution/07 - Duppy Conqueror.flac
+202:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 3 Rasta Revolution/08 - Rebel's Hop.flac
+203:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 3 Rasta Revolution/09 - Corner Stone.flac
+204:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 3 Rasta Revolution/10 - 400 Years.flac
+205:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 3 Rasta Revolution/11 - No Water.flac
+206:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 3 Rasta Revolution/12 - Reaction.flac
+207:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 3 Rasta Revolution/13 - Soul Almighty.flac
+208:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 3 Rasta Revolution/14 - Lively Up Yourself.flac
+209:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 3 Rasta Revolution/15 - Trench Town Rock.flac
+210:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 3 Rasta Revolution/16 - African Herbsman.flac
+211:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/01 - You Thing I Have No Feelings.flac
+212:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/02 - I'm Hurting Inside.flac
+213:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/03 - Lonesome Feeling.flac
+214:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/04 - How Many Times.flac
+215:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/05 - Touch Me.flac
+216:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/06 - Nice Time.flac
+217:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/07 - Selassie Is The Chapel.flac
+218:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/08 - Bend Down Low (UB40 Version).flac
+219:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/09 - The Lord Will Make A Way.flac
+220:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/10 - Dance Do The Reggae.flac
+221:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/11 - Put It On.flac
+222:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/12 - Thank You Lord.flac
+223:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/13 - Chances Are.flac
+224:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/14 - Stranger On The Shore.flac
+225:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 4 Small Axe/15 - Mellow Mood.flac
+226:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/01 - African Herbsman.flac
+227:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/02 - Sun Is Shining.flac
+228:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/03 - Don't Rock My Boat.flac
+229:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/04 - Fussin' & Fightin'.flac
+230:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/05 - Mr. Brown.flac
+231:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/06 - Soul Rebel.flac
+232:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/07 - Duppy Conqueror.flac
+233:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/08 - Soul Almighty (Dub).flac
+234:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/09 - Kaya.flac
+235:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/10 - Put It On.flac
+236:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/11 - Keep On Moving.flac
+237:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/12 - Stand Alone.flac
+238:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/13 - Memphis.flac
+239:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/14 - Brain Washing.flac
+240:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/15 - Riding High.flac
+241:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/16 - Redder Than Red (Dub).flac
+242:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/17 - Thank You Lord (Dub).flac
 playlist_end
