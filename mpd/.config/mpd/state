@@ -2,8 +2,8 @@ sw_volume: 90
 audio_device_state:1:pulse
 audio_device_state:1:Visualizer feed
 state: pause
-current: 164
-time: 304.294000
+current: 87
+time: 47.733000
 random: 0
 repeat: 0
 single: 0
@@ -255,4 +255,6 @@ playlist_begin
 240:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/15 - Riding High.flac
 241:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/16 - Redder Than Red (Dub).flac
 242:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/17 - Thank You Lord (Dub).flac
+243:Лучшая классика тысячелетия-4/CD1/13. Ария- Бах.mp3
+244:Лучшая классика тысячелетия-4/CD1/8. Венгерский танец № 4- Брамс.mp3
 playlist_end
