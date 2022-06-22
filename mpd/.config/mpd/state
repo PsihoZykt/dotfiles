@@ -1,9 +1,9 @@
 sw_volume: 90
 audio_device_state:1:pulse
 audio_device_state:1:Visualizer feed
-state: pause
-current: 104
-time: 0.159000
+state: play
+current: 165
+time: 1.163000
 random: 0
 repeat: 0
 single: 0
@@ -257,4 +257,5 @@ playlist_begin
 242:Bob Marley - 2019 - Timeless Classic Albums (5 CD)/CD 5 The Lee Scratch Perry Master/17 - Thank You Lord (Dub).flac
 243:Лучшая классика тысячелетия-4/CD1/13. Ария- Бах.mp3
 244:Лучшая классика тысячелетия-4/CD1/8. Венгерский танец № 4- Брамс.mp3
+245:10 сезон/The Simpsons 10x13 - Homer to the Max.mkv
 playlist_end
